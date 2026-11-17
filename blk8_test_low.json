@@ -1,0 +1,827 @@
+[
+    {
+        "id": 1,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Atherosclerosis And PAD",
+        "question": "A 70-year-old man has an aneurysm of the ascending thoracic aorta with a 'tree-bark' intimal appearance. Which etiology is classically associated with this location and appearance?",
+        "options": [
+            "Atherosclerosis",
+            "Tertiary syphilis",
+            "Fibromuscular dysplasia",
+            "Takayasu arteritis of the descending aorta",
+            "Abdominal aortic aneurysm extension"
+        ],
+        "correct_answer": "Tertiary syphilis",
+        "explanation": "Thoracic aortic aneurysms result from matrix breakdown plus mechanical forces (cystic medial necrosis). Descending TAAs are usually atherosclerotic. Ascending TAAs are associated with bicuspid aortic valve, connective tissue disease (Marfan, Loeys-Dietz, Ehlers-Danlos), genetic causes and tertiary syphilis, which causes endarteritis of the vasa vasorum and a wrinkled 'tree-bark' intima."
+    },
+    {
+        "id": 2,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Atherosclerosis And PAD",
+        "question": "A 19-year-old with hypertelorism, bifid uvula, arterial tortuosity and an aortic root aneurysm is diagnosed with a connective tissue disorder related to Marfan syndrome. Mutations in which genes are responsible?",
+        "options": [
+            "ELN (elastin)",
+            "TGFBR1 or TGFBR2",
+            "COL3A1 (type III collagen)",
+            "COL5A1 (type V collagen)",
+            "FBN1 (fibrillin-1)"
+        ],
+        "correct_answer": "TGFBR1 or TGFBR2",
+        "explanation": "The lecture lists disorders related to Marfan (FBN1): Ehlers-Danlos (COL3A for the vascular type) and Loeys-Dietz (TGFBR1 and TGFBR2). Loeys-Dietz features hypertelorism, bifid uvula or cleft palate, arterial tortuosity and aggressive aortic aneurysms."
+    },
+    {
+        "id": 3,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Systematic Approach To EKG",
+        "question": "Where is the atrioventricular (AV) node located anatomically?",
+        "options": [
+            "Floor of the right atrium near the coronary sinus opening",
+            "Superior right atrial wall, just inferior to the SVC opening",
+            "Ventricular myocardium at the base of the papillary muscles",
+            "Left atrial wall adjacent to the pulmonary vein ostia",
+            "Superior interventricular septum, below the membranous septum"
+        ],
+        "correct_answer": "Floor of the right atrium near the coronary sinus opening",
+        "explanation": "The SA node sits in the superior right atrial wall just inferior to the SVC opening. The AV node lies in the floor of the right atrium behind the tricuspid valve near the coronary sinus opening. The bundle of His runs in the superior interventricular septum, the bundle branches within the septum, and Purkinje fibers within ventricular myocardium."
+    },
+    {
+        "id": 4,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Systematic Approach To EKG",
+        "question": "Which combination of findings meets the lecture's definition of low QRS voltage?",
+        "options": [
+            "Less than 15 mm in V1 plus V5 combined",
+            "Less than 10 mm in all limb leads and less than 5 mm in all precordial leads",
+            "Less than 5 mm in all limb leads and less than 10 mm in all precordial leads",
+            "Less than 5 mm in V4 through V6, regardless of limb leads",
+            "Less than 2.5 mm in lead II and less than 5 mm in V1"
+        ],
+        "correct_answer": "Less than 5 mm in all limb leads and less than 10 mm in all precordial leads",
+        "explanation": "Low voltage requires QRS amplitude under 5 mm in all limb leads and under 10 mm in all precordial leads (e.g., pericardial effusion, obesity, COPD, infiltrative disease). High voltage should prompt consideration of LVH or RVH."
+    },
+    {
+        "id": 5,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemic Heart Disease",
+        "question": "Which vessel typically supplies the right bundle branch?",
+        "options": [
+            "Sinoatrial nodal branch of the RCA",
+            "Acute marginal branch of the RCA",
+            "Obtuse marginal branch of the circumflex",
+            "Atrioventricular nodal artery",
+            "First septal perforator of the LAD"
+        ],
+        "correct_answer": "First septal perforator of the LAD",
+        "explanation": "Lecture anatomy: the septum gets about 2/3 of its supply from the LAD and 1/3 from the RCA. The sinus node is supplied by the RCA in about 55-60% of people. The left bundle has multi-vessel supply. The right bundle is supplied by the first septal perforator off the LAD, and the AV nodal artery usually arises just beyond the takeoff of the PDA."
+    },
+    {
+        "id": 6,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemia Treatment",
+        "question": "Shortly after being switched to a new antiplatelet agent following ACS, a patient reports new mild shortness of breath. The drug binds the P2Y12 receptor reversibly at a site different from clopidogrel. Which drug is it?",
+        "options": [
+            "Abciximab",
+            "Clopidogrel",
+            "Aspirin",
+            "Prasugrel",
+            "Ticagrelor"
+        ],
+        "correct_answer": "Ticagrelor",
+        "explanation": "Ticagrelor is the only oral P2Y12 inhibitor in the lecture that binds reversibly, and it acts at a different site than the thienopyridines (clopidogrel, prasugrel), which are prodrugs that bind irreversibly. About 10% of patients report dyspnea. In the PLATO trial it was superior to clopidogrel for death, MI or stroke, with more non-CABG bleeding."
+    },
+    {
+        "id": 7,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemia Treatment",
+        "question": "How do low molecular weight heparins such as enoxaparin differ from unfractionated heparin?",
+        "options": [
+            "They are IV-only and need aPTT checks every 4-6 hours",
+            "They carry no risk of heparin-induced thrombocytopenia",
+            "They have a shorter half-life with unpredictable dose response",
+            "Mainly anti-Xa with little aPTT effect, so no routine aPTT monitoring",
+            "They directly bind clot-bound thrombin without needing antithrombin"
+        ],
+        "correct_answer": "Mainly anti-Xa with little aPTT effect, so no routine aPTT monitoring",
+        "explanation": "UFH potentiates antithrombin III to inactivate thrombin (and weakly Xa), cannot inactivate clot-bound thrombin, and is monitored with the aPTT every 4-6 hours. LMWH strongly inhibits Xa with little aPTT effect, has a half-life 2-4 times longer, gives predictable anticoagulation with subcutaneous dosing, and needs only occasional anti-Xa levels (pregnancy, obesity). It is harder to use in renal impairment and can still cause HIT."
+    },
+    {
+        "id": 8,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pathophysiology",
+        "question": "A 19-year-old with hypertension, hypokalemia and metabolic alkalosis has low plasma renin AND low aldosterone. His father has the same findings. The defect most likely involves which protein?",
+        "options": [
+            "Thiazide-sensitive Na-Cl cotransporter (loss of function)",
+            "Epithelial sodium channel in the collecting duct (gain of function)",
+            "Mineralocorticoid receptor (inactivating mutation)",
+            "Aldosterone synthase fused to 11-beta-hydroxylase",
+            "Na-K-2Cl cotransporter in the thick ascending limb"
+        ],
+        "correct_answer": "Epithelial sodium channel in the collecting duct (gain of function)",
+        "explanation": "Liddle syndrome (autosomal dominant) mimics hyperaldosteronism with hypertension, hypokalemia and metabolic alkalosis, but the defect is in the sodium transporter itself (constitutively active ENaC), not the aldosterone receptor, so renin and aldosterone are suppressed. Gitelman syndrome (autosomal recessive NCC loss) causes hypokalemia, hypomagnesemia and alkalosis without hypertension. A chimeric aldosterone synthase gene causes glucocorticoid-remediable aldosteronism, in which aldosterone is high."
+    },
+    {
+        "id": 9,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pathophysiology",
+        "question": "A 15-year-old who has a 46,XY karyotype is phenotypically female with primary amenorrhea, hypertension, hypokalemia, skin darkening and low cortisol. Which steroid is markedly increased and drives the hypertension?",
+        "options": [
+            "Aldosterone",
+            "17-hydroxyprogesterone",
+            "Dehydroepiandrosterone (DHEA)",
+            "Cortisol",
+            "11-deoxycorticosterone"
+        ],
+        "correct_answer": "11-deoxycorticosterone",
+        "explanation": "In 17-alpha-hydroxylase deficiency, cortisol and sex steroids cannot be made. ACTH rises (skin darkening), and precursors shunt toward 11-deoxycorticosterone, a mineralocorticoid that causes hypertension and hypokalemia; aldosterone itself is decreased because of volume expansion. XY patients fail to virilize."
+    },
+    {
+        "id": 10,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pharmacology",
+        "question": "A 74-year-old man on a centrally acting alpha-2 agonist three times daily runs out of his medication while traveling. Two days later his BP is 210/118 mmHg with tachycardia and anxiety. Which drug was he taking?",
+        "options": [
+            "Clonidine",
+            "Methyldopa",
+            "Hydralazine",
+            "Prazosin",
+            "Minoxidil"
+        ],
+        "correct_answer": "Clonidine",
+        "explanation": "Clonidine is powerful but must be taken frequently and causes rebound hypertension when stopped abruptly, so the lecture urges caution, especially in the elderly. Methyldopa, also a central alpha-2 agonist, is used almost exclusively in pregnancy. Hydralazine causes reflex tachycardia and drug-induced lupus."
+    },
+    {
+        "id": 11,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pharmacology",
+        "question": "A 48-year-old woman with HFrEF and CKD is started on a direct arterial vasodilator combined with isosorbide dinitrate. Months later she develops arthralgias, a malar rash and positive anti-histone antibodies. Which drug is responsible?",
+        "options": [
+            "Hydralazine",
+            "Isosorbide dinitrate",
+            "Spironolactone",
+            "Amlodipine",
+            "Aliskiren"
+        ],
+        "correct_answer": "Hydralazine",
+        "explanation": "Hydralazine is a peripheral arterial vasodilator useful in renal dysfunction and HFrEF (often paired with nitrates). It causes reflex tachycardia and drug-induced lupus (anti-histone antibodies). Nitrates such as isosorbide dinitrate are mainly venous dilators whose common side effect is headache."
+    },
+    {
+        "id": 12,
+        "faculty": "Daniel Mockler",
+        "session": "B8: Video: Cardiac Biomarkers",
+        "question": "Which troponin subunit has NO cardiac-specific isoform and therefore cannot be used as a cardiac-specific marker?",
+        "options": [
+            "None; all are identical in heart and skeletal muscle",
+            "Troponin C",
+            "Troponin I",
+            "Troponin T",
+            "All troponin subunits have cardiac-specific isoforms"
+        ],
+        "correct_answer": "Troponin C",
+        "explanation": "Troponin T binds tropomyosin, troponin I inhibits actomyosin ATPase, and troponin C binds calcium. Cardiac isoforms of TnI and TnT allow immunoassays with virtually complete cardiospecificity (cardiac TnT forms seen in diseased skeletal muscle can be distinguished immunologically). TnC has no cardiac-specific form."
+    },
+    {
+        "id": 13,
+        "faculty": "Daniel Mockler",
+        "session": "B8: Video: Cardiac Biomarkers",
+        "question": "After proBNP is cleaved, how is the biologically inert N-terminal fragment (NT-proBNP) cleared?",
+        "options": [
+            "By natriuretic peptide clearance receptors",
+            "Renally",
+            "By plasma neutral endopeptidases",
+            "Hepatically",
+            "By pulmonary endothelium"
+        ],
+        "correct_answer": "Renally",
+        "explanation": "Active BNP is cleared by natriuretic peptide receptors and plasma endopeptidases. NT-proBNP undergoes renal clearance, which is why it is more affected by renal insufficiency. Either can be measured; cutoffs differ, but diagnostic performance is comparable."
+    },
+    {
+        "id": 14,
+        "faculty": "Daniel Mockler",
+        "session": "B8: Video: Cardiac Biomarkers",
+        "question": "Which creatine kinase isoenzyme is found mostly in the brain and in smooth muscle such as the intestines?",
+        "options": [
+            "Macro-CK",
+            "CK-BB",
+            "CK-MB",
+            "CK-MM",
+            "Mitochondrial CK"
+        ],
+        "correct_answer": "CK-BB",
+        "explanation": "CK-MM is found in skeletal and cardiac muscle; CK-MB mostly in the heart, with small amounts in skeletal muscle; CK-BB mostly in the brain and smooth muscle (e.g., intestines). The CK-MB 'relative index' (CK-MB relative to total CK) was used to distinguish cardiac from skeletal sources."
+    },
+    {
+        "id": 15,
+        "faculty": "Daniel Mockler",
+        "session": "B8: Video: Cardiac Biomarkers",
+        "question": "A concern raised in lecture about some high-sensitivity troponin assays is that troponin can become detectable in which setting, suggesting release possibly without cardiomyocyte necrosis?",
+        "options": [
+            "During pregnancy",
+            "After extreme exercise",
+            "After ingesting caffeine",
+            "After a single fatty meal",
+            "During normal sleep"
+        ],
+        "correct_answer": "After extreme exercise",
+        "explanation": "Some high-sensitivity assays detect troponin after extreme exercise, which suggests troponin might be released without cardiomyocyte necrosis and challenges conventional dogma. More study of the mechanism is needed."
+    },
+    {
+        "id": 16,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-Anginals",
+        "question": "Which antianginal agent works by inhibiting the late sodium current in ventricular myocytes?",
+        "options": [
+            "Ranolazine",
+            "Amlodipine",
+            "Trimetazidine",
+            "Isosorbide mononitrate",
+            "Ivabradine"
+        ],
+        "correct_answer": "Ranolazine",
+        "explanation": "Ranolazine inhibits the late Na+ current in ventricular myocytes (reducing calcium overload and contractility). Ivabradine inhibits SA nodal pacemaker (funny) channels to lower heart rate. pFOX inhibitors (fatty acid oxidation inhibitors such as trimetazidine) reduce cardiac oxygen consumption. These are prophylactic agents for angina unresponsive to other treatments."
+    },
+    {
+        "id": 17,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-Anginals",
+        "question": "Why is isosorbide mononitrate effective orally while nitroglycerin is given sublingually, buccally or transdermally?",
+        "options": [
+            "Isosorbide mononitrate does not need conversion to nitric oxide",
+            "Nitroglycerin is destroyed by gastric acid",
+            "Nitroglycerin is too large to cross the intestinal epithelium",
+            "Isosorbide mononitrate does not undergo first-pass hepatic metabolism",
+            "Isosorbide mononitrate is renally activated"
+        ],
+        "correct_answer": "Isosorbide mononitrate does not undergo first-pass hepatic metabolism",
+        "explanation": "Nitrates undergo significant first-pass hepatic metabolism and have short half-lives, so nitroglycerin and isosorbide dinitrate are given sublingually (relief in seconds), buccally or topically. Isosorbide mononitrate avoids first-pass metabolism. Tolerance develops with continuous exposure, so doses must be spaced to allow a nitrate-free interval."
+    },
+    {
+        "id": 18,
+        "faculty": "Normand Leblanc",
+        "session": "B8: Video: Alpha And Beta Blockers",
+        "question": "Which beta-blockers possess intrinsic sympathomimetic activity, making them useful in patients with reduced cardiac reserve or bradycardia?",
+        "options": [
+            "Pindolol and acebutolol",
+            "Propranolol and timolol",
+            "Metoprolol and atenolol",
+            "Sotalol and esmolol",
+            "Carvedilol and nadolol"
+        ],
+        "correct_answer": "Pindolol and acebutolol",
+        "explanation": "In the lecture's profile table, pindolol (first-generation, nonselective) and acebutolol (second-generation, beta-1-selective) have intrinsic beta (partial agonist) activity, which limits bradycardia. Pindolol's indications include hypertension and arrhythmias, especially in patients with reduced cardiac reserve or bradycardia."
+    },
+    {
+        "id": 19,
+        "faculty": "Normand Leblanc",
+        "session": "B8: Video: Alpha And Beta Blockers",
+        "question": "A patient taking a nonselective MAO inhibitor eats aged cheese and develops a severe hypertensive crisis. Which reversible, competitive alpha-1/alpha-2 antagonist can be rapidly infused to treat this?",
+        "options": [
+            "Tamsulosin",
+            "Phenoxybenzamine",
+            "Phentolamine",
+            "Clonidine",
+            "Yohimbine"
+        ],
+        "correct_answer": "Phentolamine",
+        "explanation": "Phentolamine reversibly blocks alpha-1 and alpha-2 receptors and can be rapidly infused for severe hypertensive episodes. These include pheochromocytoma, tyramine ingestion during MAO inhibitor therapy, and rapid clonidine withdrawal. It is also used to limit tissue necrosis after extravasation of an alpha agonist. Adverse effects include reflex tachycardia, ischemic events and GI stimulation (peptic ulcer exacerbation)."
+    },
+    {
+        "id": 20,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Arrhythmia",
+        "question": "A 26-year-old pediatric intern who recently went hiking has an expanding 'target' rash and new lightheadedness. His ECG shows progressive PR prolongation followed by a dropped QRS. What is the most likely cause of his conduction disease?",
+        "options": [
+            "Hyperkalemia",
+            "Wolff-Parkinson-White syndrome",
+            "Lyme carditis",
+            "Congenital long QT syndrome",
+            "Digoxin toxicity"
+        ],
+        "correct_answer": "Lyme carditis",
+        "explanation": "The lecture's case is a pediatric intern with a target rash and Mobitz I second-degree AV block (slow, narrow, irregular). Myocarditis from Lyme (or dengue) is a reversible cause of AV block. Other causes: high vagal tone, athletes, medications (beta-blockers, CCBs, amiodarone, digitalis), MI, metabolic derangements, post-surgery or ablation, fibrosis, endocarditis, infiltrative disease, thyroid disease and congenital heart disease. Always look for reversibility."
+    },
+    {
+        "id": 21,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Arrhythmia",
+        "question": "AV nodal re-entrant tachycardia (AVNRT) differs from most re-entrant arrhythmias in that its circuit:",
+        "options": [
+            "Uses intrinsic fast and slow pathways within the AV node",
+            "Circles the tricuspid annulus in the right atrium",
+            "Requires an accessory pathway (bundle of Kent)",
+            "Originates in an infarct scar within the ventricle",
+            "Requires multiple wandering wavelets in both atria"
+        ],
+        "correct_answer": "Uses intrinsic fast and slow pathways within the AV node",
+        "explanation": "AVNRT uses parallel fast and slow pathways within the AV node, an intrinsic anatomic property. On ECG it is a regular, narrow-complex tachycardia, often with retrograde P waves seen as a 'pseudo-S' in the inferior leads and an R' in V1, which disappear after ablation. Atrial flutter is a single right atrial circuit, AF has multiple circuits, and AVRT (as in WPW) uses an accessory pathway."
+    },
+    {
+        "id": 22,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Chest Pain Cases",
+        "question": "After an acute MI, which biomarker typically peaks at 2-5 times the upper limit of normal and returns to normal within 2-3 days?",
+        "options": [
+            "LDH",
+            "CK-MB",
+            "Cardiac troponin I",
+            "BNP",
+            "Myoglobin"
+        ],
+        "correct_answer": "CK-MB",
+        "explanation": "From the biomarker time-course figure: myoglobin and CK isoforms rise earliest; CK-MB peaks at 2-5 times the ULN and normalizes in 2-3 days; troponins rise only slightly in small infarctions (often NSTEMI) but 20-50 times the ULN in large infarctions (often STEMI), and can stay elevated 7 days or more. The ULN is the 99th percentile of a normal reference population."
+    },
+    {
+        "id": 23,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Chest Pain Cases",
+        "question": "Which biomarker is the earliest to rise after an acute MI, although it is not cardiac-specific?",
+        "options": [
+            "Myoglobin",
+            "LDH",
+            "AST",
+            "Cardiac troponin T",
+            "CK-MB"
+        ],
+        "correct_answer": "Myoglobin",
+        "explanation": "Myoglobin and CK isoforms rise first after MI, but myoglobin is present in skeletal muscle and is rarely used now because troponin assays are so sensitive and specific. LDH and AST were the historical 'cardiac enzymes' and are nonspecific."
+    },
+    {
+        "id": 24,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Chest Pain Cases",
+        "question": "In a patient with severe calcific aortic stenosis, why may the second heart sound be absent?",
+        "options": [
+            "Calcified, immobile aortic leaflets lose A2",
+            "The mitral valve closes late and obscures S2",
+            "The pulmonic valve fails to close normally",
+            "A pericardial effusion muffles all heart sounds",
+            "Increased stroke volume masks the second sound"
+        ],
+        "correct_answer": "Calcified, immobile aortic leaflets lose A2",
+        "explanation": "The aortic component of S2 (A2) comes from aortic valve closure. When the leaflets are heavily calcified and immobile, A2 becomes soft or absent, a marker of severe AS. Paradoxical splitting can also occur because LV ejection is prolonged."
+    },
+    {
+        "id": 25,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "A 31-year-old woman with systemic lupus erythematosus has small, sterile, granular vegetations found on both sides of the mitral valve, spreading onto the chordae. What is this lesion?",
+        "options": [
+            "Rheumatic vegetations along lines of closure",
+            "Myxomatous degeneration",
+            "Calcific aortic stenosis",
+            "Acute bacterial endocarditis",
+            "Libman-Sacks endocarditis"
+        ],
+        "correct_answer": "Libman-Sacks endocarditis",
+        "explanation": "Libman-Sacks (non-bacterial thrombotic) endocarditis is a manifestation of SLE that involves the mitral and tricuspid valves. Its small, sterile vegetations occur on BOTH sides of the valve, are not confined to lines of closure, and spread over the valve surface and chordae. Microscopically they are fibrinous eosinophilic material."
+    },
+    {
+        "id": 26,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "A 38-year-old man with a recent flu-like illness and a history of autoimmune thyroiditis develops rapidly progressive heart failure and recurrent ventricular tachycardia over 2 weeks. Biopsy shows inflammation with multinucleated giant cells. What is the appropriate treatment?",
+        "options": [
+            "Observation, since it is self-limited",
+            "Immunosuppression with corticosteroids",
+            "Empiric broad-spectrum antibiotics",
+            "NSAIDs plus colchicine for 3 months",
+            "Antiviral therapy for enterovirus"
+        ],
+        "correct_answer": "Immunosuppression with corticosteroids",
+        "explanation": "Giant cell myocarditis is an aggressive T-lymphocyte-mediated inflammation of cardiac myocytes of unknown cause, associated with autoimmune disorders in about 20% of patients. After a flu-like prodrome it progresses over days to weeks to heart failure or shock, with frequent ventricular arrhythmias, and is often fatal. Diagnosis is by biopsy, treatment is immunosuppression, and transplant or mechanical support is often necessary."
+    },
+    {
+        "id": 27,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "An infant with seizures, hypopigmented ash-leaf macules and multiple 3-4 cm masses protruding into the ventricles is evaluated. Histology of a mass shows large clear cells with glycogen vacuoles and cytoplasmic strands radiating from the nucleus to the membrane ('spider cells'). Mutations in which genes are associated?",
+        "options": [
+            "VHL (von Hippel-Lindau)",
+            "RB1 (retinoblastoma)",
+            "NF1 (neurofibromin)",
+            "TSC1 or TSC2",
+            "PRKAR1A (Carney complex)"
+        ],
+        "correct_answer": "TSC1 or TSC2",
+        "explanation": "Rhabdomyoma is the most common primary cardiac tumor in children. It is a hamartoma caused by mutations in TSC1 or TSC2, and about 50% of patients have tuberous sclerosis. The masses are often multiple, embedded in the ventricular wall (can obstruct), and show glycogen-rich 'spider cells' without mitoses."
+    },
+    {
+        "id": 28,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "A 34-year-old man has sharp chest pain relieved by sitting forward, a friction rub, and diffuse ST elevation with PR depression after a viral illness. Which initial treatment does the lecture recommend?",
+        "options": [
+            "Prednisone as first-line therapy",
+            "Emergent cardiac catheterization",
+            "Broad-spectrum antibiotics",
+            "NSAIDs plus colchicine",
+            "Heparin anticoagulation"
+        ],
+        "correct_answer": "NSAIDs plus colchicine",
+        "explanation": "Acute pericarditis (often viral or idiopathic; also post-MI Dressler syndrome, post-cardiac surgery, bacterial, fungal or TB) presents with pleuritic chest pain improved by leaning forward, tachycardia, possibly a friction rub, and ECG diffuse ST elevation with PR depression, with or without effusion. Treatment is NSAIDs and colchicine; the lecture advises trying to avoid steroids."
+    },
+    {
+        "id": 29,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Heart Failure And Hemodynamics",
+        "question": "A 22-year-old with palpitations and recurrent ventricular tachycardia from the right ventricle is found to have a thinned RV wall with fatty infiltration and fibrosis. A defect in which proteins is responsible?",
+        "options": [
+            "Dystrophin (X-linked)",
+            "Fibrillin-1",
+            "Lamin A/C",
+            "Desmosomal proteins",
+            "Beta-myosin heavy chain"
+        ],
+        "correct_answer": "Desmosomal proteins",
+        "explanation": "Arrhythmogenic right ventricular cardiomyopathy (dysplasia) is an inherited disease, most commonly autosomal dominant with variable penetrance, caused by defective desmosomal cell adhesion proteins. The RV wall thins with fatty infiltration and fibrosis, leading to RV failure and arrhythmias that cause sudden death in young people."
+    },
+    {
+        "id": 30,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Heart Failure And Hemodynamics",
+        "question": "An autopsy of a patient with long-standing right-sided heart failure shows a liver with a mottled red-and-tan cut surface. What causes this 'nutmeg' appearance?",
+        "options": [
+            "Macrovesicular fatty change from alcohol",
+            "Centrilobular congestion from high RA pressure",
+            "Extrahepatic biliary obstruction with cholestasis",
+            "Portal vein thrombosis with periportal infarction",
+            "Hepatic amyloid deposition in the space of Disse"
+        ],
+        "correct_answer": "Centrilobular congestion from high RA pressure",
+        "explanation": "Elevated RA pressure in right-sided HF is transmitted back through the hepatic veins, causing centrilobular congestion. The congested centers alternating with paler periportal areas give the 'nutmeg liver' (the lecture notes hemosiderin deposits). Left-sided HF shows pulmonary edema with interstitial opacities and cephalization on chest x-ray, and hemosiderin-laden macrophages in the lung."
+    },
+    {
+        "id": 31,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Aortic Dissection and other Cardiac Traumas",
+        "question": "In the DeBakey classification of aortic dissection, a dissection confined to the ascending aorta is which type?",
+        "options": [
+            "Stanford B",
+            "Type III",
+            "Type I",
+            "Type IV",
+            "Type II"
+        ],
+        "correct_answer": "Type II",
+        "explanation": "DeBakey (rarely used) classifies by tear origin and extent: Type I involves the ascending aorta plus distal extension; Type II involves the ascending aorta only; Type III involves the descending aorta. DeBakey I and II are Stanford A, and III is Stanford B."
+    },
+    {
+        "id": 32,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Aortic Dissection and other Cardiac Traumas",
+        "question": "How does thoracic endovascular aortic repair (TEVAR) treat a complicated type B dissection?",
+        "options": [
+            "It surgically fenestrates and drains the false lumen",
+            "It ligates the left subclavian artery origin",
+            "It covers the entry tear, expanding the true lumen",
+            "It deliberately thromboses the true lumen",
+            "It replaces the ascending aorta and aortic valve"
+        ],
+        "correct_answer": "It covers the entry tear, expanding the true lumen",
+        "explanation": "A thoracic endograft seals the entry tear, restoring true-lumen flow and reducing false-lumen pressurization, which can relieve dynamic branch obstruction. Static or persistent malperfusion may need selective branch stenting, flap fenestration, or open or hybrid bypass. Potential problems after TEVAR include device collapse or migration, aortic injury and persistent entry flow."
+    },
+    {
+        "id": 33,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Venous Insufficiency",
+        "question": "The great saphenous vein, the most common source of superficial reflux in chronic venous insufficiency, drains into the deep system at which location?",
+        "options": [
+            "Saphenopopliteal junction behind the knee",
+            "Saphenofemoral junction in the groin",
+            "Into the small saphenous vein at mid-calf",
+            "Directly into the external iliac vein",
+            "Into the posterior tibial veins at the ankle"
+        ],
+        "correct_answer": "Saphenofemoral junction in the groin",
+        "explanation": "The great saphenous vein runs anterior to the medial malleolus and up the medial leg and thigh to join the common femoral vein at the saphenofemoral junction in the groin. The small saphenous vein runs posteriorly up the calf to join the popliteal vein at the saphenopopliteal junction. Perforating veins connect the superficial and deep systems, and their incompetence transmits deep venous pressure to the superficial system."
+    },
+    {
+        "id": 34,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Venous Insufficiency",
+        "question": "In the CEAP classification of chronic venous disease, which clinical class indicates an active venous ulcer?",
+        "options": [
+            "C3",
+            "C6",
+            "C2",
+            "C4",
+            "C5"
+        ],
+        "correct_answer": "C6",
+        "explanation": "CEAP clinical classes: C0 no visible signs; C1 telangiectasias or reticular veins; C2 varicose veins; C3 edema; C4 skin changes (pigmentation, eczema, lipodermatosclerosis); C5 healed venous ulcer; C6 active venous ulcer. The lecture uses CEAP images to show progression from varicosities to edema, skin changes and ulceration."
+    },
+    {
+        "id": 35,
+        "faculty": "Jad Al danaf",
+        "session": "B8: (REQUIRED) Treatment Decisions - Statin Therapy For DLD",
+        "question": "According to the 2026 ACC/AHA guideline taught in lecture, how often should lipoprotein(a) be measured, and what level is a risk-enhancing factor?",
+        "options": [
+            "Never routinely, since it is untreatable",
+            "Once in every adult; 125 nmol/L or higher",
+            "Every 5 years after age 40; above 10 nmol/L",
+            "Annually in adults; above 30 nmol/L",
+            "Only after an MI; above 500 nmol/L"
+        ],
+        "correct_answer": "Once in every adult; 125 nmol/L or higher",
+        "explanation": "Lp(a) is an inherited cholesterol-carrying lipoprotein that should be measured at least once in every adult. Under 125 nmol/L is not elevated; 125 nmol/L or more is a risk enhancer (about 1.4 times higher ASCVD risk); 250 nmol/L (100 mg/dL) or more is associated with at least twice the risk. There is no routine Lp(a)-specific drug yet, so management targets overall risk."
+    },
+    {
+        "id": 36,
+        "faculty": "Jad Al danaf",
+        "session": "B8: (REQUIRED) Treatment Decisions - Statin Therapy For DLD",
+        "question": "At what fasting triglyceride level does the lecture say pancreatitis risk becomes very high, requiring urgent attention to secondary causes and TG-lowering strategies?",
+        "options": [
+            "1000 mg/dL or higher",
+            "2000 mg/dL or higher",
+            "150 mg/dL or higher",
+            "200 mg/dL or higher",
+            "500 mg/dL or higher"
+        ],
+        "correct_answer": "1000 mg/dL or higher",
+        "explanation": "TG 150-499: mainly a metabolic and ASCVD-risk conversation (lifestyle, statin when indicated, look for obesity, diabetes, alcohol, CKD, hypothyroidism, drugs). TG 500-999: pancreatitis risk becomes more important. TG 1000 or more: very high pancreatitis risk, needing urgent correction of secondary causes, a very-low-fat diet and TG-lowering therapy. For persistent TG elevation, the statin remains the foundation for ASCVD risk reduction."
+    },
+    {
+        "id": 37,
+        "faculty": "Jad Al danaf",
+        "session": "B8: (REQUIRED) Treatment Decisions - Statin Therapy For DLD",
+        "question": "Two patients both have LDL-C of 100 mg/dL. Patient 1 has TG 80 and ApoB 75; Patient 2 has TG 280 and ApoB 125. What does the lecture conclude?",
+        "options": [
+            "Patient 2 should receive therapy to raise HDL",
+            "Patient 2 has more atherogenic particles than LDL-C suggests",
+            "Both have identical atherogenic risk since LDL-C is equal",
+            "ApoB adds nothing once LDL-C is known",
+            "Patient 1 needs a fibrate for residual risk"
+        ],
+        "correct_answer": "Patient 2 has more atherogenic particles than LDL-C suggests",
+        "explanation": "ApoB (one per atherogenic particle) approximates the number of atherogenic particles and predicts risk better than LDL-C. When LDL-C and particle burden disagree, especially with TG of 150 or more, diabetes, or low achieved LDL-C, ApoB reveals residual risk. HDL-C is context, not a treatment target; pharmacologically raising HDL has not become a prevention strategy."
+    },
+    {
+        "id": 38,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Anti-arrythmic Drugs",
+        "question": "A patient taking quinidine reports ringing in the ears, decreased hearing, blurry vision and confusion. What is this syndrome called?",
+        "options": [
+            "Neuroleptic malignant syndrome",
+            "Anticholinergic toxidrome",
+            "Cinchonism",
+            "Drug-induced lupus",
+            "Serotonin syndrome"
+        ],
+        "correct_answer": "Cinchonism",
+        "explanation": "Quinidine (a class IA drug derived from cinchona bark, related to quinine) causes cinchonism: tinnitus, hearing loss, visual disturbance, headache and confusion. GI upset is its most common side effect, and it also causes anticholinergic effects, thrombocytopenia, hemolysis in G6PD deficiency, and dose-independent QT prolongation with torsades (start in hospital)."
+    },
+    {
+        "id": 39,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Anti-arrythmic Drugs",
+        "question": "A patient on long-term amiodarone develops fatigue, cold intolerance and an elevated TSH. What is the most appropriate management, per the lecture?",
+        "options": [
+            "Give radioactive iodine ablation",
+            "Start methimazole to block thyroid synthesis",
+            "Stop amiodarone immediately and permanently",
+            "Switch to flecainide for rhythm control",
+            "Add levothyroxine and usually continue amiodarone"
+        ],
+        "correct_answer": "Add levothyroxine and usually continue amiodarone",
+        "explanation": "Hypothyroidism is the most common thyroid effect of amiodarone (it inhibits T4-to-T3 deiodination, accumulating reverse T3, and contains iodine). It is managed with T4 supplementation, usually without stopping the drug. Amiodarone-induced hyperthyroidism requires stopping the drug."
+    },
+    {
+        "id": 40,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Anti-arrythmic Drugs",
+        "question": "A 19-year-old with a family history of sudden death has recurrent syncope when her alarm clock goes off in the morning. QTc is 510 ms. Loss of function in which current is most likely?",
+        "options": [
+            "IKs (KvLQT1)",
+            "IKATP",
+            "IKr (HERG)",
+            "L-type Ca2+ current",
+            "INa late current gain of function"
+        ],
+        "correct_answer": "IKr (HERG)",
+        "explanation": "Long QT type 2 results from decreased IKr function (HERG/KCNH2). Arrhythmias (polymorphic VT/VF) are classically triggered by emotional disturbance or sudden auditory stimuli such as an alarm clock. Risk rises when another IKr-blocking drug is added (class III antiarrhythmics, methadone, fluoroquinolones). Penetrance is about 75%."
+    },
+    {
+        "id": 41,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Pharmacology Of Heart Failure",
+        "question": "A man with HFrEF develops painful gynecomastia on spironolactone. Which substitute MRA causes less gynecomastia, and what still must be monitored closely?",
+        "options": [
+            "Amiloride; liver function tests",
+            "Triamterene; fasting glucose",
+            "Eplerenone; potassium and creatinine",
+            "Eplerenone; no monitoring is needed",
+            "Finasteride; prostate-specific antigen"
+        ],
+        "correct_answer": "Eplerenone; potassium and creatinine",
+        "explanation": "Spironolactone is cheap but causes gynecomastia in about 10% (anti-androgen effects) and hyperkalemia, with an increase in deaths after its widespread uncritical use. Eplerenone is more selective and more expensive, with less gynecomastia and somewhat less hyperkalemia. Renal function and potassium must be monitored closely after starting either."
+    },
+    {
+        "id": 42,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Pharmacology Of Heart Failure",
+        "question": "Which IV inotrope works by inhibiting phosphodiesterase III, and what precautions apply?",
+        "options": [
+            "Dopamine; renal vasoconstriction at low dose",
+            "Nesiritide; increased mortality",
+            "Dobutamine; tachycardia and tachyarrhythmias",
+            "Digoxin; toxicity worsened by hypokalemia",
+            "Milrinone; hypotension, caution in renal failure"
+        ],
+        "correct_answer": "Milrinone; hypotension, caution in renal failure",
+        "explanation": "Milrinone inhibits PDE3, slowing cAMP breakdown, which raises intracellular Ca2+ and contractility and also vasodilates ('inodilator'), so it lowers BP; it is renally cleared. Dobutamine (mainly beta-1, some beta-2) and dopamine stimulate adrenergic receptors and cause tachycardia and tachyarrhythmias. Inotropes help short-term in cold-and-wet HF or as a bridge, but chronic use increases mortality."
+    },
+    {
+        "id": 43,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-arrhytmic Pharmacology",
+        "question": "A patient with chronic kidney disease on long-term procainamide develops torsades de pointes. Which explanation fits?",
+        "options": [
+            "Procainamide inhibits CYP3A4, raising its own level",
+            "Procainamide induces profound hypokalemia",
+            "Parent procainamide accumulates because it is renally cleared",
+            "Its renally excreted K+-blocking metabolite NAPA accumulates",
+            "Procainamide activates RyR2, causing DADs"
+        ],
+        "correct_answer": "Its renally excreted K+-blocking metabolite NAPA accumulates",
+        "explanation": "Procainamide (Na+ channel blocker) is hepatically metabolized with a short half-life. Its active metabolite NAPA blocks K+ channels (class III effect), is excreted by the kidney, and has a long half-life, so it accumulates in renal dysfunction and can cause torsades. Long-term procainamide also causes a reversible lupus-like syndrome in about a third of patients, and chronic use should be avoided in ischemic heart disease."
+    },
+    {
+        "id": 44,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-arrhytmic Pharmacology",
+        "question": "A patient stable on digoxin is started on quinidine. What happens to his digoxin level?",
+        "options": [
+            "It rises, because quinidine decreases digoxin clearance",
+            "It falls, because quinidine induces digoxin metabolism",
+            "It rises, because quinidine increases digoxin absorption only in hypokalemia",
+            "It falls, because quinidine increases renal excretion",
+            "It is unchanged"
+        ],
+        "correct_answer": "It rises, because quinidine decreases digoxin clearance",
+        "explanation": "Quinidine decreases digoxin clearance, raising digoxin levels and risking toxicity. Its own hepatic clearance is enhanced by P450 inducers such as rifampin. It is a mixed Na+ and K+ channel blocker, also used for malaria (d-isomer of quinine), and causes GI effects in up to 50%, cinchonism, anticholinergic effects and torsades."
+    },
+    {
+        "id": 45,
+        "faculty": "Joseph Stevenson",
+        "session": "B8: Pulmonary Hypertension",
+        "question": "An adult with an uncorrected large congenital shunt develops cyanosis and clubbing as pulmonary vascular resistance rises above systemic resistance. Which lesion most commonly leads to this Eisenmenger physiology?",
+        "options": [
+            "Bicuspid aortic valve",
+            "Mitral valve prolapse",
+            "Large VSD",
+            "Coarctation of the aorta",
+            "Small muscular VSD"
+        ],
+        "correct_answer": "Large VSD",
+        "explanation": "Eisenmenger syndrome (shunt reversal from right to left after pulmonary vascular remodeling) is more common with large defects: almost all cases of truncus arteriosus, about 50% of large VSDs and about 10% of large ASDs. Congenital systemic-to-pulmonary shunts are a WHO Group 1 associated cause of PAH."
+    },
+    {
+        "id": 46,
+        "faculty": "Joseph Stevenson",
+        "session": "B8: Pulmonary Hypertension",
+        "question": "Which histopathologic lesion represents advanced, irreversible pulmonary arterial hypertension?",
+        "options": [
+            "Plexiform lesion",
+            "Granuloma",
+            "Fatty streak",
+            "Aschoff body",
+            "Onion-skin hyperplastic arteriolosclerosis of the kidney"
+        ],
+        "correct_answer": "Plexiform lesion",
+        "explanation": "PAH progresses from reversible vasoconstriction and smooth muscle hypertrophy through intimal and adventitial proliferation and in situ thrombosis to the plexiform lesion, a disorganized proliferation of endothelial channels that marks advanced, irreversible disease. Interestingly, eNOS is decreased in vascular tissue overall but increased within plexiform lesions."
+    },
+    {
+        "id": 47,
+        "faculty": "Cherie Singer",
+        "session": "B8: Video: Hyperlipidemia Treatment",
+        "question": "Which apolipoprotein, transferred from HDL to chylomicrons and VLDL, activates capillary lipoprotein lipase?",
+        "options": [
+            "ApoA-I",
+            "ApoB-48",
+            "ApoE",
+            "ApoC-II",
+            "ApoB-100"
+        ],
+        "correct_answer": "ApoC-II",
+        "explanation": "Apolipoprotein roles: ApoB-48 identifies intestinal chylomicrons; ApoB-100 (on VLDL, IDL, LDL) is the LDL-receptor ligand; ApoC-II activates endothelial LPL, which hydrolyzes triglycerides in chylomicrons and VLDL; ApoE mediates hepatic uptake of chylomicron remnants and IDL; ApoA-I activates LCAT. HDL donates ApoC-II and ApoE to TG-rich lipoproteins."
+    },
+    {
+        "id": 48,
+        "faculty": "Cherie Singer",
+        "session": "B8: Video: Hyperlipidemia Treatment",
+        "question": "A patient well controlled on levothyroxine starts cholestyramine for hypercholesterolemia. Over the next 2 months his TSH rises and he reports constipation. What explains the TSH rise?",
+        "options": [
+            "It blocks TSH receptors on thyroid follicular cells",
+            "Constipation increases fecal levothyroxine excretion",
+            "It induces hepatic metabolism of levothyroxine",
+            "It binds levothyroxine in the gut, reducing absorption",
+            "It causes primary thyroid failure through iodine loss"
+        ],
+        "correct_answer": "It binds levothyroxine in the gut, reducing absorption",
+        "explanation": "Bile acid sequestrants (cholestyramine) bind bile acids in the gut, increasing fecal loss. The liver then diverts more cholesterol to bile acid synthesis and upregulates LDL receptors, all without the drug entering the blood. They also bind many oral drugs (levothyroxine, warfarin, digoxin), reducing absorption, so dosing must be separated. GI effects such as constipation are common."
+    },
+    {
+        "id": 49,
+        "faculty": "Cherie Singer",
+        "session": "B8: Video: Hyperlipidemia Treatment",
+        "question": "A patient started on niacin develops intense facial flushing. What mediates the flushing, and which two metabolic toxicities does niacin cause?",
+        "options": [
+            "Nitric oxide; hypouricemia and hypoglycemia",
+            "Serotonin release; hypothyroidism and anemia",
+            "Bradykinin; hypoglycemia and hypercalcemia",
+            "Histamine release; hypokalemia and hyponatremia",
+            "Prostaglandins; hyperuricemia and hyperglycemia"
+        ],
+        "correct_answer": "Prostaglandins; hyperuricemia and hyperglycemia",
+        "explanation": "Niacin-induced flushing is mediated by prostaglandins (it can be blunted by aspirin pretreatment). Its metabolic toxicities include hyperuricemia, which can precipitate gout, and hyperglycemia, which worsens glucose control."
+    },
+    {
+        "id": 50,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Valvular Disease",
+        "question": "A 6-year-old with an 'elfin' face, an unusually friendly personality, developmental delay with strong verbal skills, and transient hypercalcemia has a systolic murmur. Echo shows diffuse narrowing of the aorta above the sinuses of Valsalva. What is the genetic basis?",
+        "options": [
+            "22q11 deletion (DiGeorge syndrome)",
+            "Chromosome 7q deletion (Williams)",
+            "PTPN11 mutation (Noonan syndrome)",
+            "JAG1 mutation (Alagille syndrome)",
+            "Trisomy 21 (Down syndrome)"
+        ],
+        "correct_answer": "Chromosome 7q deletion (Williams)",
+        "explanation": "Supravalvular aortic stenosis (diffuse narrowing above the valve) is characteristic of Williams syndrome, a deletion of about 26 genes on the long arm of chromosome 7 including elastin. Features include elfin facies, cheerful sociability, developmental delay with relatively strong language, and transient hypercalcemia. Supravalvular pulmonic stenosis occurs with Williams, Noonan, Alagille and Ehlers-Danlos syndromes."
+    },
+    {
+        "id": 51,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Valvular Disease",
+        "question": "A patient with severe chronic aortic insufficiency has a low-pitched mid-diastolic rumble at the apex in addition to his early diastolic murmur. What is this finding and its mechanism?",
+        "options": [
+            "S3 from rapid early ventricular filling",
+            "Austin Flint murmur (functional mitral stenosis)",
+            "Graham Steell murmur from pulmonic regurgitation",
+            "Opening snap from rheumatic mitral stenosis",
+            "Carey Coombs murmur from acute valvulitis"
+        ],
+        "correct_answer": "Austin Flint murmur (functional mitral stenosis)",
+        "explanation": "In severe AI, the regurgitant jet strikes the anterior mitral leaflet and pushes it toward closure during diastole, creating a functional mitral stenosis heard as a low-pitched mid-diastolic rumble at the apex (Austin Flint murmur). Hill sign (popliteal SBP 40 mmHg or more above brachial) may also correlate with AI severity; most other eponyms do not."
+    },
+    {
+        "id": 52,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Shock",
+        "question": "An intra-aortic balloon pump is placed for cardiogenic shock. When does the balloon inflate and deflate, and what does each phase accomplish?",
+        "options": [
+            "Inflates during systole to augment ejection",
+            "Inflates in systole, deflates in diastole",
+            "Inflates continuously throughout the cycle",
+            "Inflates only during arrhythmias",
+            "Inflates in diastole, deflates just before systole"
+        ],
+        "correct_answer": "Inflates in diastole, deflates just before systole",
+        "explanation": "IABP counterpulsation: inflation in diastole raises early diastolic pressure and coronary perfusion; deflation just before systole lowers end-diastolic aortic pressure (afterload), so SBP falls while MAP stays about the same. Other short-term support: VA ECMO and percutaneous VADs (Impella, which cannot be used with significant AS or AR; TandemHeart, which needs a trans-septal puncture), all requiring anticoagulation."
+    },
+    {
+        "id": 53,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Shock",
+        "question": "On ECG, a patient with a large pericardial effusion shows QRS amplitude that varies from beat to beat. What is this finding called, and what causes it?",
+        "options": [
+            "Torsades de pointes from QT prolongation",
+            "Electrical alternans from the heart swinging in fluid",
+            "Low voltage from myocardial amyloid deposition",
+            "Ventricular bigeminy from ectopic beats",
+            "Mobitz I block from AV nodal disease"
+        ],
+        "correct_answer": "Electrical alternans from the heart swinging in fluid",
+        "explanation": "Electrical alternans (beat-to-beat variation in QRS amplitude or axis) reflects the heart swinging within a large pericardial effusion and supports tamponade, along with low voltage, sinus tachycardia and pulsus paradoxus. The differential for the effusion includes TB, SLE, malignancy, infection, Lyme, post-MI, post-cardiotomy, trauma and post-procedure causes."
+    },
+    {
+        "id": 54,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Shortness of Breath",
+        "question": "A patient with HFrEF reports waking up at night gasping for air (paroxysmal nocturnal dyspnea). What is the mechanism?",
+        "options": [
+            "Reduced preload while lying flat",
+            "Sleep-related central hyperventilation",
+            "Nocturnal hypoglycemia from insulin therapy",
+            "Increased vagal tone causing bronchospasm",
+            "Supine fluid redistribution raises LA pressure"
+        ],
+        "correct_answer": "Supine fluid redistribution raises LA pressure",
+        "explanation": "Orthopnea and PND are left-sided congestive ('wet') symptoms. When supine, dependent fluid is reabsorbed and venous return increases; a failing LV cannot handle the extra preload, so LA pressure and PCWP rise, causing pulmonary interstitial edema and stiff lungs. Right-sided congestion causes edema, hepatomegaly, ascites and early satiety."
+    },
+    {
+        "id": 55,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Shortness of Breath",
+        "question": "In a patient with cardiac tamponade, what magnitude of inspiratory systolic blood pressure decline defines pulsus paradoxus?",
+        "options": [
+            "More than 40 mmHg",
+            "More than 10 mmHg",
+            "More than 25 mmHg diastolic",
+            "Any rise in systolic BP with inspiration",
+            "More than 2 mmHg"
+        ],
+        "correct_answer": "More than 10 mmHg",
+        "explanation": "A small inspiratory fall in SBP (under 10 mmHg) is normal. Pulsus paradoxus, an exaggeration of normal physiology, is an inspiratory fall of more than 10 mmHg, seen in tamponade (and also in severe asthma or COPD and massive PE). It is caused by ventricular interdependence within the tense pericardium."
+    }
+]

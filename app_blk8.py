@@ -10,9 +10,10 @@ import re
 st.set_page_config(page_title="UNR Med Block 8 Midterm 1 Review", layout="wide")
 # Question sets shown in the sidebar: label -> (file, short tag used in widget keys)
 QUESTION_SETS = {
-    "Practice Test 1": ("blk8_test1.json", "t1"),
-    "Practice Test 2": ("blk8_test2.json", "t2"),
-    "Extra Practice": ("blk8_extra.json", "x"),
+    "High-Yield Test": ("blk8_test_high.json", "th", "test"),
+    "Low-Yield Test": ("blk8_test_low.json", "tl", "test"),
+    "Extra High-Yield": ("blk8_extra_high.json", "xh", "extra"),
+    "Extra Low-Yield": ("blk8_extra_low.json", "xl", "extra"),
 }
 SECONDS_PER_QUESTION = 90   # blueprint pacing
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -58,7 +59,7 @@ def load_questions(filename):
 # --- QUESTION SET PICKER (switching sets starts fresh) ---
 st.sidebar.header("Study Configuration")
 selected_set = st.sidebar.radio("Question Set", list(QUESTION_SETS))
-QUESTION_FILE, SET_TAG = QUESTION_SETS[selected_set]
+QUESTION_FILE, SET_TAG, SET_KIND = QUESTION_SETS[selected_set]
 all_questions = load_questions(QUESTION_FILE)
 
 if st.session_state.get('active_set') != selected_set:
@@ -162,12 +163,12 @@ else:
 
 # --- MAIN INTERFACE ---
 st.title("Block 8 Midterm 1 Review (CV)")
-if selected_set.startswith("Practice Test"):
+if SET_KIND == "test":
     minutes = len(all_questions) * SECONDS_PER_QUESTION / 60
     st.caption(f"{selected_set}: {len(all_questions)} questions matched to the Midterm 1 blueprint. "
                f"Exam pacing is {SECONDS_PER_QUESTION} seconds per question, about {minutes:.0f} minutes total.")
 else:
-    st.caption(f"{selected_set}: {len(all_questions)} questions not used in the two practice tests.")
+    st.caption(f"{selected_set}: {len(all_questions)} more questions that are not in either test.")
 
 if not st.session_state.quiz_data:
     st.warning(f"No questions available for this selection. Make sure {QUESTION_FILE} is in the same folder as this app.")

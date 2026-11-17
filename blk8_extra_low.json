@@ -1,0 +1,827 @@
+[
+    {
+        "id": 1,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Atherosclerosis And PAD",
+        "question": "On histologic sections of a normal muscular artery, which layer contains the vasa vasorum?",
+        "options": [
+            "Internal elastic lamina",
+            "Subendothelial basement membrane",
+            "Tunica media",
+            "Tunica adventitia",
+            "Tunica intima"
+        ],
+        "correct_answer": "Tunica adventitia",
+        "explanation": "The intima is a single layer of endothelial cells. The media is smooth muscle bounded internally by the internal elastic lamina and externally by the external elastic lamina. The adventitia is extracellular matrix (collagen, elastin) with fibroblasts, smooth muscle cells, nerves and the vasa vasorum, which supply the outer wall."
+    },
+    {
+        "id": 2,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Atherosclerosis And PAD",
+        "question": "Which of the following endothelium-derived substances acts as a vasoconstrictor?",
+        "options": [
+            "Platelet-activating factor (PAF)",
+            "Nitric oxide (NO)",
+            "Endothelium-derived hyperpolarizing factor",
+            "Prostacyclin (PGI2)",
+            "Bradykinin from kininogen"
+        ],
+        "correct_answer": "Platelet-activating factor (PAF)",
+        "explanation": "The lecture groups endothelial mediators of tone into vasodilators (nitric oxide and prostacyclin) and vasoconstrictors (endothelin-1 and platelet-activating factor). Bradykinin and adenosine are vasodilators."
+    },
+    {
+        "id": 3,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Atherosclerosis And PAD",
+        "question": "Autopsy studies show that atherosclerotic lesions progress through life. In which age group do fibrous plaques typically first appear alongside fatty streaks?",
+        "options": [
+            "Adolescents",
+            "Young children",
+            "Adults over 40 only",
+            "Infants",
+            "Adults over 65 only"
+        ],
+        "correct_answer": "Adolescents",
+        "explanation": "The lecture's epidemiology of atherosclerotic pathology: infants and young children show foam cells, young children show fatty streaks, adolescents show fatty streaks and fibrous plaques, and adults show fatty streaks, fibrous plaques and thrombosis."
+    },
+    {
+        "id": 4,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Systematic Approach To EKG",
+        "question": "When placing precordial ECG electrodes, where is lead V4 positioned?",
+        "options": [
+            "5th intercostal space, left midclavicular line",
+            "4th intercostal space, left sternal border",
+            "4th intercostal space, right sternal border",
+            "5th intercostal space, left anterior axillary line",
+            "Left midaxillary line at the level of V1"
+        ],
+        "correct_answer": "5th intercostal space, left midclavicular line",
+        "explanation": "V1: 4th ICS right sternal border (anterior septum). V2: 4th ICS left sternal border (anterior septum). V3: between V2 and V4 (anterior). V4: 5th ICS left midclavicular line (anterior wall/apex). V5: between V4 and V6. V6: left midaxillary line at the same level as V4 (lateral)."
+    },
+    {
+        "id": 5,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Systematic Approach To EKG",
+        "question": "The augmented limb leads (aVR, aVL, aVF) use a negative pole that is not a physical electrode. What is this reference point called?",
+        "options": [
+            "The isoelectric TP point",
+            "Wilson's central terminal",
+            "The right leg ground electrode",
+            "Bazett's reference",
+            "Einthoven's triangle apex"
+        ],
+        "correct_answer": "Wilson's central terminal",
+        "explanation": "The negative pole of each augmented lead is a calculated average of the RA, LA and LL electrodes, called Wilson's central terminal. aVR looks at the right side, aVL laterally and aVF inferiorly. Bazett's formula corrects QT for heart rate."
+    },
+    {
+        "id": 6,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Systematic Approach To EKG",
+        "question": "A 30-year-old man with sharp, positional chest pain has an ECG showing global PR-segment depression of about 1 mm relative to the TP segment. This finding most suggests which diagnosis?",
+        "options": [
+            "First-degree AV block",
+            "Wolff-Parkinson-White syndrome",
+            "Pericarditis",
+            "Hypokalemia",
+            "Acute anterior STEMI"
+        ],
+        "correct_answer": "Pericarditis",
+        "explanation": "The PR segment should be isoelectric with the TP segment. Global PR depression greater than 0.8 mm suggests pericarditis, typically with diffuse ST elevation. A PR interval longer than 200 ms (not PR segment depression) indicates AV block."
+    },
+    {
+        "id": 7,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemic Heart Disease",
+        "question": "After plaque rupture exposes subendothelial collagen, platelets initially adhere to the vessel wall. According to the lecture, which platelet receptors directly bind collagen?",
+        "options": [
+            "P2Y1 and P2Y12 purinergic receptors",
+            "Glycoprotein VI and glycoprotein Ia",
+            "Thromboxane A2 receptor",
+            "Glycoprotein IIb/IIIa",
+            "Protease-activated receptor (thrombin receptor)"
+        ],
+        "correct_answer": "Glycoprotein VI and glycoprotein Ia",
+        "explanation": "Thrombosis proceeds by (1) adhesion: platelet GPVI and GPIa bind exposed collagen; (2) activation: thrombin (via protease-activated receptors), thromboxane A2 and ADP (purinergic P2Y receptors) activate platelets; (3) aggregation: platelets link to each other through GP IIb/IIIa, bridged by fibrinogen or vWF. The platelet surface then catalyzes the coagulation cascade to form a fibrin mesh."
+    },
+    {
+        "id": 8,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemic Heart Disease",
+        "question": "Under the Third Universal Definition of Myocardial Infarction, what is the required cardiac biomarker criterion?",
+        "options": [
+            "Troponin above the 50th percentile on two samples 24 hours apart",
+            "Any detectable troponin on a single sample, regardless of trend",
+            "CK-MB at least twice the upper limit of normal on two samples",
+            "Rise and/or fall with at least one value above the 99th percentile",
+            "Myoglobin above the 95th percentile within 2 hours of symptoms"
+        ],
+        "correct_answer": "Rise and/or fall with at least one value above the 99th percentile",
+        "explanation": "The definition requires a rise and/or fall of cardiac biomarker values with at least one value above the 99th percentile, plus at least one of: ischemic symptoms, new significant ST-T changes or new LBBB, pathological Q waves, imaging evidence of new loss of viable myocardium or new regional wall motion abnormality, or intracoronary thrombus on angiography or autopsy."
+    },
+    {
+        "id": 9,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemic Heart Disease",
+        "question": "According to the fluid mechanics of a coronary stenosis, which single factor is the most important determinant of stenosis resistance at any given flow?",
+        "options": [
+            "Length of the stenosis",
+            "Distance of the stenosis from the coronary ostium",
+            "Blood viscosity",
+            "Minimum cross-sectional area within the stenosis",
+            "Heart rate"
+        ],
+        "correct_answer": "Minimum cross-sectional area within the stenosis",
+        "explanation": "By the Bernoulli relationship, the pressure drop across a stenosis is inversely related to its minimum cross-sectional area and varies with the square of the flow rate. Because of this, small further reductions in luminal area produce large drops in post-stenotic pressure and perfusion as stenoses become severe. Length and viscosity contribute through the viscous term but matter less."
+    },
+    {
+        "id": 10,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemic Heart Disease",
+        "question": "After a coronary thrombus forms, there is a 'tug-of-war' between thrombosis and thrombolysis. Which factor inhibits thrombolysis?",
+        "options": [
+            "Elastase released by trapped leukocytes",
+            "Tissue plasminogen activator secreted by endothelial cells",
+            "Plasminogen activator inhibitor-1 released by platelets",
+            "Cathepsin G from neutrophils",
+            "Urokinase-type plasminogen activator"
+        ],
+        "correct_answer": "Plasminogen activator inhibitor-1 released by platelets",
+        "explanation": "Endothelial cells release tPA (and uPA), which converts plasminogen to plasmin to dissolve fibrin. Leukocytes trapped in the thrombus release elastase and cathepsin G, which also favor lysis. Activated platelets release PAI-1, and clot retraction makes the thrombus more resistant, inhibiting thrombolysis."
+    },
+    {
+        "id": 11,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemia Treatment",
+        "question": "Which GP IIb/IIIa inhibitor is renally cleared, with platelet function returning to normal about 4-8 hours after the infusion stops?",
+        "options": [
+            "Ticagrelor",
+            "Bivalirudin",
+            "Abciximab",
+            "Eptifibatide",
+            "Cangrelor"
+        ],
+        "correct_answer": "Eptifibatide",
+        "explanation": "GP IIb/IIIa inhibitors block fibrinogen binding to the activated receptor, preventing aggregation; their main risk is bleeding. Eptifibatide (Integrilin) is renally cleared, reaches maximal effect in about 1 hour, and platelets recover 4-8 hours after stopping. Abciximab (ReoPro) is safe in renal disease, acts within 10 minutes, but platelets take about 72 hours to recover. Cangrelor is an IV reversible P2Y12 inhibitor."
+    },
+    {
+        "id": 12,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemia Treatment",
+        "question": "In a patient with suspected ACS, when should supplemental oxygen be given?",
+        "options": [
+            "Routinely to all patients for the first 24 hours",
+            "Only if arterial oxygen saturation falls below 90%",
+            "Whenever chest pain is present",
+            "Only after reperfusion therapy",
+            "Only if the patient has a STEMI"
+        ],
+        "correct_answer": "Only if arterial oxygen saturation falls below 90%",
+        "explanation": "The lecture contrasts the outdated 'MONA' approach with the 'ABCs.' Oxygen is given only if SaO2 is under 90%, because hyperoxia in non-hypoxic patients generates reactive oxygen species and may worsen outcomes."
+    },
+    {
+        "id": 13,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemia Treatment",
+        "question": "Why does the lecture caution against routine morphine in patients with UA/NSTEMI?",
+        "options": [
+            "It is contraindicated whenever heparin is running",
+            "Observational harm, partly by impairing oral P2Y12 absorption",
+            "It causes coronary vasospasm through histamine release",
+            "It irreversibly inhibits platelet cyclooxygenase",
+            "It causes reflex tachycardia that raises O2 demand"
+        ],
+        "correct_answer": "Observational harm, partly by impairing oral P2Y12 absorption",
+        "explanation": "Morphine should be given only after nitroglycerin and other anti-ischemic therapies fail, so almost never. No randomized trials define its benefit, an observational study suggested harm in UA/NSTEMI, and opioids slow gastric emptying, impairing absorption of the oral thienopyridines."
+    },
+    {
+        "id": 14,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pathophysiology",
+        "question": "Which disorder does the lecture identify as the most common single-gene cause of hypertension, caused by a chimeric 11-beta-hydroxylase/aldosterone synthase gene?",
+        "options": [
+            "Gitelman syndrome",
+            "17-alpha-hydroxylase deficiency",
+            "Glucocorticoid-remediable aldosteronism",
+            "Conn syndrome (aldosterone-producing adenoma)",
+            "Liddle syndrome (ENaC gain of function)"
+        ],
+        "correct_answer": "Glucocorticoid-remediable aldosteronism",
+        "explanation": "In glucocorticoid-remediable aldosteronism (autosomal dominant), a chimeric gene places aldosterone synthase under ACTH control, causing chronic excess aldosterone. It presents as hypertension and hypokalemia in a child with increased ACTH and aldosterone, and is suppressed by exogenous glucocorticoids."
+    },
+    {
+        "id": 15,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pathophysiology",
+        "question": "According to the 2017 ACC/AHA lifestyle modification table presented in lecture, which intervention produces the largest expected reduction in systolic blood pressure?",
+        "options": [
+            "Smoking cessation",
+            "Aerobic exercise 90-150 minutes per week",
+            "Reducing sodium to under 1500 mg/day",
+            "DASH diet",
+            "Reducing alcohol intake"
+        ],
+        "correct_answer": "DASH diet",
+        "explanation": "Expected SBP effects in the table: DASH diet about -11 mmHg; sodium under 1500 mg/day -5 to -6; aerobic exercise -5 to -8; reduced alcohol -2 to -4; smoking cessation -2 to -4 (1 week after); weight loss about -1 mmHg per kg lost."
+    },
+    {
+        "id": 16,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pathophysiology",
+        "question": "A 35-year-old with chronic knee pain begins taking high-dose ibuprofen daily, and his blood pressure rises from 124/78 to 142/90 mmHg. What is the mechanism?",
+        "options": [
+            "Inhibition of renal prostaglandins with Na/water retention",
+            "Increased catecholamine release from the adrenal medulla",
+            "Direct stimulation of adrenal aldosterone release",
+            "Enhanced bradykinin activity in vascular smooth muscle",
+            "Calcineurin inhibition causing renal vasoconstriction"
+        ],
+        "correct_answer": "Inhibition of renal prostaglandins with Na/water retention",
+        "explanation": "Drug-induced hypertension is suspected when BP rises in temporal relation to a drug. NSAIDs inhibit renal prostaglandins that regulate renal blood flow and natriuresis, increasing sodium and water retention. Other offenders in the lecture include oral contraceptives, adrenergic stimulants (cocaine, amphetamines), calcineurin inhibitors and some antidepressants."
+    },
+    {
+        "id": 17,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pharmacology",
+        "question": "Which ACE inhibitor, dosed three times daily, does the lecture highlight for scleroderma renal crisis?",
+        "options": [
+            "Captopril",
+            "Ramipril",
+            "Lisinopril",
+            "Benazepril",
+            "Enalapril"
+        ],
+        "correct_answer": "Captopril",
+        "explanation": "ACE inhibitors end in '-pril.' Lisinopril is dosed once (or twice) daily, and captopril three times daily is the agent highlighted for scleroderma renal crisis."
+    },
+    {
+        "id": 18,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pharmacology",
+        "question": "Using the lecture's naming rule, which beta-blocker is an exception to the pattern that agents A-M are beta-1 selective and N-Z are nonselective?",
+        "options": [
+            "Propranolol",
+            "Metoprolol",
+            "Esmolol",
+            "Carvedilol",
+            "Atenolol"
+        ],
+        "correct_answer": "Carvedilol",
+        "explanation": "Beta-blockers starting with A-M are generally beta-1 selective (atenolol, esmolol, metoprolol), and N-Z are nonselective (propranolol). The important exceptions are carvedilol and labetalol, which are nonselective beta-blockers that also block alpha-1 receptors, which explains their greater hypotension."
+    },
+    {
+        "id": 19,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pharmacology",
+        "question": "In a hypertensive emergency caused by intracranial hemorrhage, which IV agent does the lecture list as a typical choice?",
+        "options": [
+            "Enalaprilat",
+            "Nicardipine",
+            "Clonidine",
+            "Metolazone",
+            "Methyldopa"
+        ],
+        "correct_answer": "Nicardipine",
+        "explanation": "The lecture's typical IV agents in hypertensive crisis: labetalol (aortic dissection), nicardipine (intracranial hemorrhage), hydralazine, nitroglycerin/nitroprusside and enalapril. Ischemic stroke is managed with permissive hypertension."
+    },
+    {
+        "id": 20,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-Anginals",
+        "question": "Which drug reduces heart rate by inhibiting pacemaker channels in the sinoatrial node, without affecting contractility?",
+        "options": [
+            "Digoxin",
+            "Ivabradine",
+            "Propranolol",
+            "Verapamil",
+            "Ranolazine"
+        ],
+        "correct_answer": "Ivabradine",
+        "explanation": "Ivabradine selectively blocks the SA nodal pacemaker (If, 'funny') channel, slowing heart rate. Verapamil and propranolol also slow the heart but reduce contractility, and ranolazine targets the late Na+ current."
+    },
+    {
+        "id": 21,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-Anginals",
+        "question": "By the Law of Laplace, myocardial wall tension (and oxygen demand) is directly proportional to intraventricular pressure and radius and inversely proportional to which variable?",
+        "options": [
+            "Coronary flow",
+            "Heart rate",
+            "Wall thickness",
+            "Aortic diastolic pressure",
+            "Ejection fraction"
+        ],
+        "correct_answer": "Wall thickness",
+        "explanation": "Wall tension is roughly pressure times radius divided by (2 times) wall thickness, and myocardial oxygen consumption is proportional to wall tension. Increased preload (larger radius and diastolic pressure), afterload (systolic pressure), contractility and heart rate all raise demand. Thickening of the wall (hypertrophy) is the compensatory response that normalizes tension."
+    },
+    {
+        "id": 22,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-Anginals",
+        "question": "According to the lecture, beta-blockers have a slow onset of action. How are they therefore used in angina?",
+        "options": [
+            "Only intravenously during an acute STEMI",
+            "Only for acute attacks, given sublingually",
+            "As first-line therapy for Prinzmetal angina",
+            "Prophylaxis of stable and unstable angina",
+            "Only for variant (vasospastic) angina"
+        ],
+        "correct_answer": "Prophylaxis of stable and unstable angina",
+        "explanation": "Beta-blockers lower oxygen demand by reducing heart rate, contractility and BP, but their slow onset means they are used prophylactically. Adverse considerations: they may exacerbate variant angina, increase end-diastolic volume and ejection time, cause heart block, provoke bronchospasm (beta-2 blockade) and cause rebound if stopped abruptly."
+    },
+    {
+        "id": 23,
+        "faculty": "Normand Leblanc",
+        "session": "B8: Video: Alpha And Beta Blockers",
+        "question": "Which beta-blocker blocks beta receptors with about 5-10-fold greater potency than alpha receptors, and has an IV formulation used for hypertensive emergencies?",
+        "options": [
+            "Carvedilol",
+            "Esmolol",
+            "Sotalol",
+            "Labetalol",
+            "Pindolol"
+        ],
+        "correct_answer": "Labetalol",
+        "explanation": "Third-generation agents have actions beyond beta blockade. Labetalol blocks beta more than alpha (about 5-10-fold), has beta-2 intrinsic activity, and is given IV for hypertensive emergencies. Carvedilol blocks beta about 1.5-fold more than alpha, has membrane-stabilizing activity, and is used in CHF and post-MI. Sotalol additionally blocks K+ channels and prolongs QT. Esmolol is an ultra-short-acting IV beta-1-selective agent."
+    },
+    {
+        "id": 24,
+        "faculty": "Normand Leblanc",
+        "session": "B8: Video: Alpha And Beta Blockers",
+        "question": "A 70-year-old man with BPH starts an alpha-1 antagonist with relative selectivity for alpha-1A and alpha-1D over alpha-1B receptors. What is his most likely side effect?",
+        "options": [
+            "First-dose syncope",
+            "Abnormal ejaculation",
+            "Severe reflex tachycardia",
+            "Hyperkalemia",
+            "Bronchospasm"
+        ],
+        "correct_answer": "Abnormal ejaculation",
+        "explanation": "Tamsulosin is relatively selective for alpha-1A and alpha-1D (prostate) over alpha-1B (vascular) receptors, so it relieves BPH symptoms with little effect on blood pressure. Its notable side effect is abnormal ejaculation. Prazosin has similar affinity for all alpha-1 subtypes and causes first-dose postural hypotension."
+    },
+    {
+        "id": 25,
+        "faculty": "Normand Leblanc",
+        "session": "B8: Video: Alpha And Beta Blockers",
+        "question": "Although propranolol is almost completely absorbed after oral dosing, only about 25% reaches the systemic circulation. Why?",
+        "options": [
+            "Extensive first-pass hepatic metabolism",
+            "It is a highly water-soluble drug excreted unchanged",
+            "It is a prodrug requiring renal activation",
+            "It binds irreversibly to gut beta receptors",
+            "It is destroyed by gastric acid"
+        ],
+        "correct_answer": "Extensive first-pass hepatic metabolism",
+        "explanation": "Propranolol is highly lipophilic and undergoes prominent first-pass metabolism through the portal system, so only about 25% of an oral dose reaches systemic circulation. Water-soluble beta-blockers include atenolol and nadolol. Propranolol also has membrane-stabilizing (local anesthetic, Na+ channel blocking) activity."
+    },
+    {
+        "id": 26,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Arrhythmia",
+        "question": "Which statement about third-degree (complete) AV block is correct?",
+        "options": [
+            "The PR interval progressively lengthens before a dropped beat",
+            "Atria and ventricles beat independently, atrial rate faster",
+            "The PR is constant with intermittently dropped beats",
+            "The ventricular rate is faster than the atrial rate",
+            "Every P wave conducts, but with a PR over 200 ms"
+        ],
+        "correct_answer": "Atria and ventricles beat independently, atrial rate faster",
+        "explanation": "In complete heart block no atrial impulses are conducted: the PP and RR intervals are each constant (the ventricles are driven by an escape rhythm), with no relationship between P waves and QRS complexes, and the atrial rate exceeds the ventricular rate. If the ventricular rate is faster than the atrial rate, that shows absent V-A conduction, not complete heart block. Progressive PR lengthening is Mobitz I; a constant PR with sudden drops is Mobitz II."
+    },
+    {
+        "id": 27,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Arrhythmia",
+        "question": "In the lecture's clinician approach to tachyarrhythmias, a FAST, WIDE, IRREGULAR rhythm should prompt consideration of which group of diagnoses?",
+        "options": [
+            "Sinus bradycardia, junctional rhythm, Mobitz I block",
+            "Aberrant AF, pre-excited AF, polymorphic VT, VF",
+            "Atrial fibrillation, MAT, atrial flutter with variable block",
+            "Monomorphic VT, SVT with aberrancy, AVRT, paced rhythm",
+            "Sinus tachycardia, AVNRT, atrial flutter, atrial tachycardia"
+        ],
+        "correct_answer": "Aberrant AF, pre-excited AF, polymorphic VT, VF",
+        "explanation": "The lecture sorts tachycardias as fast or slow, wide or narrow, regular or irregular, and stable or unstable. Narrow regular: sinus tachycardia, AVNRT, atrial flutter, atrial tachycardia. Narrow irregular: AF, flutter with variable block, MAT. Wide regular: VT, SVT with aberrancy, AVRT, pacemaker. Wide irregular: aberrant AF, VF, pre-excited AF, polymorphic VT, flutter with variable block plus BBB. A wide QRS means the impulse began in the ventricle or traveled by slowed or blocked conduction."
+    },
+    {
+        "id": 28,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Chest Pain Cases",
+        "question": "A systolic murmur is described as grade III/VI. What does this grade indicate?",
+        "options": [
+            "Soft but readily heard",
+            "Audible with the stethoscope just off the chest",
+            "Loud with a palpable thrill",
+            "Moderately loud without a palpable thrill",
+            "Barely audible, heard only with concentration"
+        ],
+        "correct_answer": "Moderately loud without a palpable thrill",
+        "explanation": "Levine grading: I barely audible; II soft but easily heard; III moderately loud, no thrill; IV loud with a palpable thrill; V heard with only the edge of the stethoscope on the chest; VI heard with the stethoscope off the chest. Murmur intensity in AS does not reliably track severity, because a failing ventricle can produce a softer murmur."
+    },
+    {
+        "id": 29,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "A pericardiocentesis yields grossly hemorrhagic fluid. According to the lecture, which etiologies should be considered first?",
+        "options": [
+            "Dressler syndrome as the only consideration",
+            "Hypothyroidism, nephrotic syndrome, and cirrhosis",
+            "Viral pericarditis, uremia, and hypothyroidism",
+            "TB, malignancy, trauma, or aortic dissection",
+            "Acute rheumatic fever and Lyme carditis"
+        ],
+        "correct_answer": "TB, malignancy, trauma, or aortic dissection",
+        "explanation": "Common causes of pericardial effusion include malignancy, uremia (dialysis-related), autoimmune disease, idiopathic causes and radiation. A hemorrhagic effusion should prompt consideration of TB, malignancy, trauma, post-pericardiotomy syndrome and aortic dissection. A pericardial effusion is not the same as pericarditis or tamponade."
+    },
+    {
+        "id": 30,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "A farmer with a prosthetic aortic valve has culture-negative endocarditis on standard media. He works closely with cattle and sheep during birthing season. Which organism is most likely, and how does it count in the Duke criteria?",
+        "options": [
+            "HACEK organism; requires 3 separate positive cultures",
+            "Candida species; counts only as a minor criterion",
+            "Bartonella; a single positive serology is only a minor criterion",
+            "Coxiella burnetii; one positive culture is a major criterion",
+            "Viridans strep; requires a recent dental procedure"
+        ],
+        "correct_answer": "Coxiella burnetii; one positive culture is a major criterion",
+        "explanation": "Coxiella burnetii (Q fever) is acquired from farm animals and is a cause of culture-negative endocarditis. In the Modified Duke Criteria, a single positive culture for Coxiella counts as a major criterion, unlike other organisms, which require at least 2 separate positive cultures. Bartonella is associated with lice."
+    },
+    {
+        "id": 31,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Heart Failure And Hemodynamics",
+        "question": "A 44-year-old woman with pulmonary sarcoidosis develops new complete heart block and episodes of VT. Which statement about cardiac sarcoidosis is correct?",
+        "options": [
+            "It is treated with serial phlebotomy",
+            "It causes isolated diastolic dysfunction without conduction disease",
+            "It is diagnosed by Congo red staining of a fat pad biopsy",
+            "Cardiac MRI or biopsy diagnoses it; steroids treat arrhythmia",
+            "It affects only the right ventricle, sparing conduction tissue"
+        ],
+        "correct_answer": "Cardiac MRI or biopsy diagnoses it; steroids treat arrhythmia",
+        "explanation": "Cardiac sarcoid causes granulomatous infiltration with progressive systolic HF (LV and/or RV) and conduction disturbances or arrhythmias (heart block, VT). It is best diagnosed by cardiac MRI or biopsy of another affected site (mediastinal nodes), with endomyocardial biopsy if needed. Steroids can treat the arrhythmia. Phlebotomy treats hemochromatosis, and Congo red identifies amyloid."
+    },
+    {
+        "id": 32,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Heart Failure And Hemodynamics",
+        "question": "In a patient given IV sodium nitroprusside with no change in contractility or compliance, which pressure-volume loop change is expected?",
+        "options": [
+            "Decreased EDV with an unchanged ESV",
+            "Decreased stroke volume with an increased end-systolic volume",
+            "Upward shift of the EDPVR",
+            "Increased stroke volume with a decreased end-systolic volume",
+            "No change in stroke volume"
+        ],
+        "correct_answer": "Increased stroke volume with a decreased end-systolic volume",
+        "explanation": "Reducing afterload (nitroprusside, hydralazine, ACE inhibitors) lowers the pressure the ventricle must eject against. The end-systolic point moves down along the ESPVR, so the ventricle empties more completely: ESV falls and stroke volume rises. This is the rationale for afterload reduction in systolic HF."
+    },
+    {
+        "id": 33,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Heart Failure And Hemodynamics",
+        "question": "A 52-year-old alcoholic man living on a diet of mostly rice and liquor develops high-output dilated heart failure with peripheral edema. Deficiency of which vitamin is responsible?",
+        "options": [
+            "Niacin (vitamin B3)",
+            "Vitamin C (ascorbic acid)",
+            "Vitamin B12 (cobalamin)",
+            "Vitamin D (calciferol)",
+            "Thiamine (vitamin B1)"
+        ],
+        "correct_answer": "Thiamine (vitamin B1)",
+        "explanation": "Wet beriberi (thiamine deficiency) is on the lecture's list of non-ischemic causes of systolic dysfunction. Others: hypertension, valvular disease (AS/AR, MR), familial/genetic dilated CM, toxins (alcohol, cocaine), peripartum, stress cardiomyopathy, Coxsackie B, Chagas (T. cruzi) and doxorubicin (anthracyclines)."
+    },
+    {
+        "id": 34,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Aortic Dissection and other Cardiac Traumas",
+        "question": "A patient is diagnosed with an aortic dissection that began 6 weeks ago. Which time category does this fall into?",
+        "options": [
+            "Chronic (more than 90 days)",
+            "Acute (0-14 days)",
+            "Subacute (15-90 days)",
+            "Hyperacute",
+            "Indeterminate"
+        ],
+        "correct_answer": "Subacute (15-90 days)",
+        "explanation": "Timing categories: acute 0-14 days (early high-risk period, urgent evaluation); subacute 15-90 days (ongoing remodeling; selected type B patients may be considered for planned TEVAR); chronic more than 90 days (late remodeling and aneurysmal degeneration; long-term BP control and surveillance). Three questions classify every patient: onset, malperfusion (complicated or uncomplicated) and extent (A or B)."
+    },
+    {
+        "id": 35,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Aortic Dissection and other Cardiac Traumas",
+        "question": "After successful treatment of an aortic dissection, why is lifelong cross-sectional imaging surveillance required?",
+        "options": [
+            "Dissections always recur within the first year",
+            "Atherosclerotic plaque recurs at the repair site",
+            "Prosthetic material predisposes to endocarditis",
+            "Aneurysmal degeneration can develop over time",
+            "Coronary calcification must be scored yearly"
+        ],
+        "correct_answer": "Aneurysmal degeneration can develop over time",
+        "explanation": "The dissected aorta can remodel and degenerate into an aneurysm. Long-term care includes strict BP control (continue beta-blockade if tolerated), smoking cessation, risk-factor optimization, and lifelong aortic imaging and specialist follow-up to detect enlargement or late complications."
+    },
+    {
+        "id": 36,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Venous Insufficiency",
+        "question": "Which vessels connect the superficial and deep venous systems of the leg, and normally direct flow from superficial to deep?",
+        "options": [
+            "Vasa vasorum",
+            "Arteriovenous anastomoses",
+            "Perforating veins",
+            "Iliac collaterals",
+            "Lymphatic collectors"
+        ],
+        "correct_answer": "Perforating veins",
+        "explanation": "Perforating veins pierce the deep fascia to connect the superficial (great and small saphenous) and deep veins. Their valves normally allow flow only from superficial to deep, so the calf muscle pump can empty the deep veins. When perforator valves fail, high deep pressures during muscle contraction are transmitted outward, contributing to venous hypertension, skin changes and ulceration near the medial ankle."
+    },
+    {
+        "id": 37,
+        "faculty": "Jad Al danaf",
+        "session": "B8: (REQUIRED) Treatment Decisions - Statin Therapy For DLD",
+        "question": "Using the PREVENT 10-year ASCVD risk bands presented in lecture, a primary-prevention patient with a 4.2% risk falls into which category?",
+        "options": [
+            "Intermediate",
+            "Very high",
+            "Low",
+            "High",
+            "Borderline"
+        ],
+        "correct_answer": "Borderline",
+        "explanation": "PREVENT risk bands: low under 3%, borderline 3 to under 5%, intermediate 5 to under 10%, high 10% or more. In the lecture's final case (4.2%, premature family history, Lp(a) 170 nmol/L, elevated TG), a moderate-intensity statin was a reasonable start after shared decision-making, with an LDL-C goal under 100 mg/dL and CAC available if uncertainty remained."
+    },
+    {
+        "id": 38,
+        "faculty": "Jad Al danaf",
+        "session": "B8: (REQUIRED) Treatment Decisions - Statin Therapy For DLD",
+        "question": "Under the 2026 guideline, which primary-prevention groups have a direct indication for LDL-lowering pharmacotherapy without needing a risk calculation?",
+        "options": [
+            "Postmenopausal women over 50",
+            "Hypertension, obesity, and smoking",
+            "Patients with isolated low HDL",
+            "Diabetes, CKD stage 3-4, and HIV",
+            "Current smokers over age 40"
+        ],
+        "correct_answer": "Diabetes, CKD stage 3-4, and HIV",
+        "explanation": "The triage: established ASCVD (secondary prevention), LDL 190 or more (treat regardless of risk), and diabetes, CKD stage 3-4 or HIV each have a direct indication for LDL-lowering therapy in primary prevention. Everyone else goes through PREVENT risk estimation, personalization with risk enhancers, and selective CAC."
+    },
+    {
+        "id": 39,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Anti-arrythmic Drugs",
+        "question": "Why are both the loading and maintenance doses of lidocaine reduced in patients with heart failure or cirrhosis?",
+        "options": [
+            "It is renally excreted unchanged",
+            "It is protein bound only in heart failure",
+            "Its half-life is about 50 days",
+            "It strongly inhibits CYP2C19",
+            "Its clearance depends on hepatic blood flow"
+        ],
+        "correct_answer": "Its clearance depends on hepatic blood flow",
+        "explanation": "Lidocaine undergoes extensive hepatic first-pass metabolism (given IV), and its clearance depends on hepatic blood flow, which is reduced in CHF and cirrhosis. Toxicity is mainly neurologic: delirium, tremor, paresthesias and seizures."
+    },
+    {
+        "id": 40,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Anti-arrythmic Drugs",
+        "question": "A 42-year-old tall woman with long fingers has a suspected aortic dissection and is given IV labetalol. Which set of effects is expected?",
+        "options": [
+            "No AV nodal effect, decreased heart rate, prolonged QT",
+            "Decreased AV nodal sympathetic tone, decreased heart rate, no QT change",
+            "Increased AV nodal sympathetic tone, decreased heart rate, no QT change",
+            "Decreased AV nodal sympathetic tone, increased heart rate, no QT change",
+            "Increased AV nodal sympathetic tone, increased heart rate, shortened QT"
+        ],
+        "correct_answer": "Decreased AV nodal sympathetic tone, decreased heart rate, no QT change",
+        "explanation": "Beta-blockers (class II) block sympathetic effects on the SA and AV nodes, slowing phase 4 and AV conduction: heart rate falls and the PR lengthens, with no change in QRS or QTc. Labetalol also blocks alpha-1, lowering BP, which makes it useful in hypertensive crisis and aortic dissection. Beta-blockers are the only antiarrhythmics shown to reduce arrhythmic mortality after MI."
+    },
+    {
+        "id": 41,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Pharmacology Of Heart Failure",
+        "question": "A patient with HFrEF on maximally tolerated metoprolol succinate, sacubitril-valsartan and an MRA remains in sinus rhythm with a resting heart rate of 82 bpm. Which drug inhibits the 'funny' current to slow heart rate, and what benefit does it offer?",
+        "options": [
+            "Ivabradine; reduced hospitalization only",
+            "Diltiazem; reduced mortality",
+            "Amiodarone; reverse remodeling",
+            "Digoxin; reduced mortality",
+            "Ranolazine; reduced hospitalization"
+        ],
+        "correct_answer": "Ivabradine; reduced hospitalization only",
+        "explanation": "Ivabradine inhibits the If ('funny') pacemaker current in the SA node, slowing heart rate without negative inotropy. It is for patients optimized on other therapies with persistent sinus heart rate above 70 bpm, and its demonstrated benefit is reduced hospitalization, not mortality."
+    },
+    {
+        "id": 42,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Pharmacology Of Heart Failure",
+        "question": "A hospitalized patient with decompensated HF responds poorly to high-dose IV furosemide. Which add-on strategy does the lecture describe, and what must be watched?",
+        "options": [
+            "Add metolazone and monitor K+ and Mg2+ closely",
+            "Switch to the same dose of oral furosemide",
+            "Add IV fluids to improve renal perfusion",
+            "Add acetazolamide and stop the loop diuretic",
+            "Add high-dose spironolactone for diuresis"
+        ],
+        "correct_answer": "Add metolazone and monitor K+ and Mg2+ closely",
+        "explanation": "Thiazides (metolazone preferred for cost, or IV chlorothiazide) are added when loop diuretics reach high doses without effect, blocking distal Na reabsorption that increases in compensation. Watch for serious K and Mg losses. The lecture also advises IV loop diuretics at least twice daily, accurate intake/output and weights (goal about 2 L or 2 kg per day), and a diuretic holiday if contraction alkalosis develops."
+    },
+    {
+        "id": 43,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-arrhytmic Pharmacology",
+        "question": "How does the refractory period of a slow-response (nodal) action potential differ from that of a fast-response myocyte?",
+        "options": [
+            "Ca2+ channel recovery, outlasting repolarization",
+            "Recovery is complete as soon as repolarization ends",
+            "Nodal tissue has no refractory period at all",
+            "Na+ channel recovery, so refractoriness ends early",
+            "Shorter refractoriness, lowering the safety factor"
+        ],
+        "correct_answer": "Ca2+ channel recovery, outlasting repolarization",
+        "explanation": "In fast-response cells, excitability depends on Na+ channel recovery from inactivation; an AP during the relative refractory period has a slow upstroke and conducts slowly. In slow-response (SA and AV nodal) cells, excitability depends on Ca2+ channels, so full recovery comes well after repolarization, giving a higher safety factor. Class IV and II drugs lengthen AV nodal refractoriness to block AV nodal re-entry."
+    },
+    {
+        "id": 44,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-arrhytmic Pharmacology",
+        "question": "Which beta-blocker has a duration of action of about 10 minutes, making it useful for emergency rate control of atrial flutter or fibrillation?",
+        "options": [
+            "Propranolol",
+            "Metoprolol",
+            "Nadolol",
+            "Esmolol",
+            "Carvedilol"
+        ],
+        "correct_answer": "Esmolol",
+        "explanation": "Esmolol is a beta-1-selective agent with a very short duration (about 10 minutes), used IV for emergency treatment of atrial flutter or fibrillation. Propranolol blocks beta-1 and beta-2 and has membrane-stabilizing (Na+ blocking) effects, metoprolol is beta-1 selective, and carvedilol also blocks alpha receptors. Side effects include bradycardia, hypotension, LV failure, AV block and bronchospasm (propranolol)."
+    },
+    {
+        "id": 45,
+        "faculty": "Joseph Stevenson",
+        "session": "B8: Pulmonary Hypertension",
+        "question": "A 48-year-old woman is newly diagnosed with limited cutaneous systemic sclerosis (CREST). Which PAH screening approach is recommended?",
+        "options": [
+            "V/Q scan every 6 months indefinitely",
+            "No screening unless symptoms develop",
+            "Annual chest x-ray and ECG only",
+            "Baseline echo and PFTs with DLCO, then annually",
+            "Right heart catheterization at diagnosis"
+        ],
+        "correct_answer": "Baseline echo and PFTs with DLCO, then annually",
+        "explanation": "PAH occurs in about 33% of systemic sclerosis and 50% of CREST patients; systemic sclerosis accounts for up to 75% of CTD-associated PAH and progresses rapidly (1-year survival 45-69%). Screening: baseline echo and PFTs at diagnosis, with annual echo and PFTs considered thereafter. DLCO is important to follow in scleroderma."
+    },
+    {
+        "id": 46,
+        "faculty": "Joseph Stevenson",
+        "session": "B8: Pulmonary Hypertension",
+        "question": "In a retrospective single-center analysis cited in lecture, use of which illicit drug was found in nearly 30% of patients labeled as having idiopathic PAH?",
+        "options": [
+            "Methamphetamine",
+            "Alcohol (ethanol)",
+            "Heroin (diacetylmorphine)",
+            "Lysergic acid diethylamide (LSD)",
+            "Cannabis (marijuana)"
+        ],
+        "correct_answer": "Methamphetamine",
+        "explanation": "Drugs and toxins associated with PAH include anorexigens and stimulants (amphetamines, cocaine) and possibly L-tryptophan. Methamphetamine use was found in about 29.8% of 'idiopathic' PAH patients, versus about 4% of other PAH and thromboembolic PH patients, suggesting it is an important risk factor."
+    },
+    {
+        "id": 47,
+        "faculty": "Cherie Singer",
+        "session": "B8: Video: Hyperlipidemia Treatment",
+        "question": "Which HDL apolipoprotein activates lecithin-cholesterol acyltransferase (LCAT), supporting HDL maturation and reverse cholesterol transport?",
+        "options": [
+            "ApoC-II",
+            "ApoE",
+            "Apo(a)",
+            "ApoB-100",
+            "ApoA-I"
+        ],
+        "correct_answer": "ApoA-I",
+        "explanation": "ApoA-I is the major HDL apolipoprotein. It activates LCAT, which esterifies free cholesterol so it moves into the HDL core, allowing HDL to mature and carry cholesterol back toward the liver (reverse cholesterol transport)."
+    },
+    {
+        "id": 48,
+        "faculty": "Cherie Singer",
+        "session": "B8: Video: Hyperlipidemia Treatment",
+        "question": "What structural feature distinguishes lipoprotein(a) from LDL, and how do common lipid drugs affect it?",
+        "options": [
+            "Apo(a) bonded to ApoB-100; statins barely lower it",
+            "It is made by enterocytes; ezetimibe abolishes its secretion",
+            "It carries ApoB-48 like chylomicrons; fibrates eliminate it",
+            "It is a subclass of HDL; niacin and CETP inhibitors raise it",
+            "It lacks ApoB-100 entirely; statins lower it markedly"
+        ],
+        "correct_answer": "Apo(a) bonded to ApoB-100; statins barely lower it",
+        "explanation": "Lp(a) is an LDL-like particle (ApoB-100 plus lipid core) with apolipoprotein(a) covalently attached by a disulfide bond. Its level is mainly determined by the LPA gene. Statins generally do not lower Lp(a); PCSK9 monoclonal antibodies give large LDL reductions with modest Lp(a) lowering, and LPA-targeted siRNA therapies that reduce Apo(a) synthesis are investigational."
+    },
+    {
+        "id": 49,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Valvular Disease",
+        "question": "An 84-year-old man with severe aortic stenosis has recurrent GI bleeding from colonic angiodysplasia and labs showing loss of high-molecular-weight von Willebrand multimers. What is this association called?",
+        "options": [
+            "Kasabach-Merritt syndrome",
+            "Bernard-Soulier syndrome",
+            "Heyde syndrome",
+            "Osler-Weber-Rendu syndrome",
+            "Trousseau syndrome"
+        ],
+        "correct_answer": "Heyde syndrome",
+        "explanation": "Heyde syndrome is the association of aortic stenosis with GI bleeding from angiodysplasia. High shear stress across the stenotic valve unfolds and cleaves large vWF multimers, producing an acquired type 2A von Willebrand syndrome. Valve replacement often resolves it."
+    },
+    {
+        "id": 50,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Valvular Disease",
+        "question": "A newborn has severe tricuspid regurgitation. Echo shows apical displacement of the septal and posterior tricuspid leaflets with 'atrialization' of part of the right ventricle. What is this congenital anomaly?",
+        "options": [
+            "Ebstein anomaly",
+            "Partial anomalous pulmonary venous return",
+            "Tricuspid atresia",
+            "Hypoplastic left heart syndrome",
+            "Tetralogy of Fallot"
+        ],
+        "correct_answer": "Ebstein anomaly",
+        "explanation": "Ebstein anomaly is a congenital malformation of the tricuspid valve in which the annular insertions of the septal and posterior leaflets are displaced apically, so part of the RV becomes functionally atrial ('atrialized'). It causes tricuspid regurgitation and right heart enlargement."
+    },
+    {
+        "id": 51,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Valvular Disease",
+        "question": "A patient with complete heart block has intermittent very large waves in the jugular venous pulse. What causes these 'cannon a waves'?",
+        "options": [
+            "Tricuspid regurgitation during ventricular systole",
+            "Atrial contraction against a closed tricuspid valve",
+            "Pulmonary hypertension with RV hypertrophy",
+            "Rapid ventricular filling in early diastole",
+            "Constrictive pericarditis limiting filling"
+        ],
+        "correct_answer": "Atrial contraction against a closed tricuspid valve",
+        "explanation": "In the JVP, the 'a' wave is right atrial contraction (follows the P wave), the 'c' wave is tricuspid bulging with RV contraction (after QRS and S1), and the 'v' wave is passive atrial filling during ventricular systole. With AV dissociation, the atrium sometimes contracts against a closed tricuspid valve, producing intermittent giant cannon a waves. JVP is measured at 30 degrees from the sternal angle, adding 5 cm to estimate RA pressure."
+    },
+    {
+        "id": 52,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Shock",
+        "question": "How does the Fick method calculate cardiac output?",
+        "options": [
+            "CO = (arterial - venous O2 content) / VO2",
+            "CO = (MAP - CVP) x SVR",
+            "CO = HR x systemic vascular resistance",
+            "CO = thermodilution curve area x heart rate",
+            "CO = VO2 / (arterial - venous O2 content)"
+        ],
+        "correct_answer": "CO = VO2 / (arterial - venous O2 content)",
+        "explanation": "Fick principle: O2 consumption = CO x (arterial minus venous O2 content), so CO = VO2 / AV O2 difference. Thermodilution (PA catheter) assumes all flow is forward on the right side and is limited by tricuspid regurgitation or shunts. Normal PA catheter values: RA 5, RV 25/5, PA 25/10, PCWP 10 mmHg."
+    },
+    {
+        "id": 53,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Shock",
+        "question": "Which vasopressor in the lecture's table is a pure alpha-1 agonist with no beta activity?",
+        "options": [
+            "Dobutamine",
+            "Dopamine",
+            "Epinephrine",
+            "Norepinephrine",
+            "Phenylephrine"
+        ],
+        "correct_answer": "Phenylephrine",
+        "explanation": "Vasopressor receptor profiles: epinephrine (alpha-1 +++, beta-1 ++, beta-2 ++); norepinephrine (alpha-1 ++, beta-1 +, beta-2 +); phenylephrine (alpha-1 +++, no beta); vasopressin (V1 vascular smooth muscle, V2 renal). Inotropes: dopamine (some alpha, beta and DA receptors), dobutamine (mainly beta-1 with beta-2), milrinone (PDE3 inhibitor)."
+    },
+    {
+        "id": 54,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Shock",
+        "question": "Which hemodynamic criteria define cardiogenic shock in the lecture?",
+        "options": [
+            "CVP under 2 mmHg with low PCWP",
+            "CI under 2.2 L/min/m2 and PCWP over 15 mmHg",
+            "CI over 4.0 L/min/m2 and PCWP under 8 mmHg",
+            "SVR under 800 with a high mixed venous O2",
+            "MAP over 65 mmHg with lactate under 2"
+        ],
+        "correct_answer": "CI under 2.2 L/min/m2 and PCWP over 15 mmHg",
+        "explanation": "Clinically: SBP under 90 mmHg for over 30 minutes (or vasopressor need), end-organ hypoperfusion (cool extremities, urine output under 30 mL/hr), and pulmonary edema. Hemodynamically: CI under 2.2 L/min/m2 and PCWP over 15 mmHg. Treatment targets the derangements: diuretics for high PCWP, inotropes for low CO, vasodilators for high SVR. Fluids, vasopressors and beta-blockers are the wrong approach."
+    },
+    {
+        "id": 55,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Shortness of Breath",
+        "question": "How should jugular venous pressure be measured and reported, according to the lecture?",
+        "options": [
+            "Supine at 0 degrees, measured from the clavicle",
+            "By timing hepatojugular reflux in seconds",
+            "By palpating the carotid upstroke timing",
+            "At 30-45 degrees, height above sternal angle plus 5 cm",
+            "Sitting at 90 degrees using the external jugular"
+        ],
+        "correct_answer": "At 30-45 degrees, height above sternal angle plus 5 cm",
+        "explanation": "JVP estimates CVP, a surrogate for RA pressure, which can reflect PCWP and LVEDP. With the head of the bed at about 30 degrees and the chin turned to relax the SCM, identify the meniscus of the internal jugular column (double inward pulsation) and measure from the sterno-manubrial angle, adding 5 cm because the RA sits about 5 cm below that angle. Alternatively, describe where on the neck the column top is seen and the angle at which the patient sits."
+    }
+]

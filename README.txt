@@ -2,14 +2,16 @@ Block 8 Midterm 1 Practice Questions (Cardiovascular)
 UNR Med Class of 2029
 
 WHAT'S INCLUDED
-- Practice Test 1 and Practice Test 2: 55 questions each, with the same number of
-  questions per session as the Midterm 1 blueprint. Both are drawn from the
-  high-yield, board-style questions.
-- Extra Practice: 148 more questions, including the detail-level ones. Use these
-  after the two tests.
-- 12 EKG questions with tracings (4 in Test 1, 3 in Test 2, 5 in Extra Practice).
-  They are labeled "EKG Reading" and take the place of blueprint questions from the
-  EKG, Arrhythmia, Chest Pain Cases and Pericardial Disease sessions.
+- High-Yield Test: 55 core, board-style questions with the same number of questions
+  per session as the Midterm 1 blueprint.
+- Low-Yield Test: 55 detail-level questions (specific drugs, anatomy, criteria),
+  matched to the blueprint the same way.
+- Extra High-Yield (93) and Extra Low-Yield (55): every question not used in the
+  two tests, for more practice.
+- 12 EKG questions with tracings (4 in the High-Yield Test, 8 in Extra High-Yield).
+  They are labeled "EKG Reading". In the High-Yield Test they take the place of
+  blueprint questions from the EKG, Arrhythmia, Chest Pain Cases and Pericardial
+  Disease sessions.
 
 HOW TO RUN
 1. Install Python 3 from python.org if you don't have it.
