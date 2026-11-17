@@ -1,0 +1,830 @@
+[
+    {
+        "id": 1,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Atherosclerosis And PAD",
+        "question": "In an early atherosclerotic lesion, monocytes roll along activated endothelium and then stop and adhere firmly before crossing into the vessel wall. Which endothelial molecule most directly mediates this firm adhesion?",
+        "options": [
+            "Monocyte chemoattractant protein-1 (MCP-1)",
+            "Vascular cell adhesion molecule-1 (VCAM-1)",
+            "Platelet-derived growth factor (PDGF)",
+            "Scavenger receptor A",
+            "Endothelin-1"
+        ],
+        "correct_answer": "Vascular cell adhesion molecule-1 (VCAM-1)",
+        "explanation": "Sequence: rolling, activation, adhesion, diapedesis, migration. Chemokines such as MCP-1 attract and activate monocytes, and cytokines induce endothelial adhesion molecules (ICAM-1, VCAM-1), which bind monocyte integrins and mediate firm adhesion. Scavenger receptors are on macrophages and take up oxidized LDL; endothelin-1 is a vasoconstrictor; PDGF drives smooth muscle migration and proliferation later in plaque development."
+    },
+    {
+        "id": 2,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Atherosclerosis And PAD",
+        "question": "A tall 24-year-old man with long arms, joint hypermobility, pectus excavatum and an upward lens dislocation is found to have a dilated aortic root. The pathogenesis of his aortic disease is best explained by which mechanism?",
+        "options": [
+            "Gain-of-function mutation in the TGF-beta receptor causing reduced signaling",
+            "Atherosclerotic plaque eroding the aortic media",
+            "Fibrillin-1 deficiency leading to excess TGF-beta signaling",
+            "Endarteritis of the vasa vasorum from tertiary syphilis",
+            "Defective type III collagen weakening the aortic wall"
+        ],
+        "correct_answer": "Fibrillin-1 deficiency leading to excess TGF-beta signaling",
+        "explanation": "Marfan syndrome (autosomal dominant) is caused by FBN1 mutations. Deficient fibrillin-1 fails to sequester TGF-beta, so TGF-beta accumulates and signaling increases, contributing to cystic medial degeneration and ascending aortic aneurysm and dissection. Related disorders include Ehlers-Danlos (COL3A1, type III collagen) and Loeys-Dietz (TGFBR1/TGFBR2). Syphilitic aortitis also affects the ascending aorta but would not explain the skeletal and lens findings."
+    },
+    {
+        "id": 3,
+        "faculty": "Lorrel Toft",
+        "session": "B8: (REQUIRED) EKG Reading",
+        "question": "A 68-year-old woman has this ECG at a routine office visit. What is the best interpretation?",
+        "options": [
+            "Sinus bradycardia with right bundle branch block",
+            "Sinus bradycardia with left bundle branch block",
+            "Left ventricular hypertrophy with strain",
+            "Complete heart block with ventricular escape",
+            "Acute anterior STEMI"
+        ],
+        "correct_answer": "Sinus bradycardia with left bundle branch block",
+        "explanation": "Dr. Toft's read: sinus bradycardia at 48 bpm with LBBB, QRS about 160 ms. P waves precede every QRS (sinus). LBBB pattern: wide QRS with broad, notched (M-shaped) R waves in the lateral leads (I, aVL, V6) and deep, wide QS/rS complexes in V1-V3. The ST elevation in V1-V3 is the expected discordant repolarization of LBBB, not a STEMI. RBBB would show rSR' in V1 and a wide S in I/V6.",
+        "image": "images/b8_ekg_01_lbbb.jpg"
+    },
+    {
+        "id": 4,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Systematic Approach To EKG",
+        "question": "A 12-lead ECG shows a QRS complex that is predominantly negative in lead I and predominantly positive in lead aVF. Which of the following best describes the mean QRS axis?",
+        "options": [
+            "Extreme (northwest) axis deviation",
+            "Left axis deviation",
+            "Normal axis",
+            "Indeterminate axis",
+            "Right axis deviation"
+        ],
+        "correct_answer": "Right axis deviation",
+        "explanation": "Lead I tells left versus right: a positive QRS means the mean vector points to the patient's left, and a negative QRS means it points right. Lead aVF tells inferior versus superior. Negative in I and positive in aVF places the vector down and to the right, which is right axis deviation (e.g., RVH). Positive in both I and II is a normal axis (-30 to +90 degrees). Negative in both I and aVF would be extreme axis."
+    },
+    {
+        "id": 5,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemic Heart Disease",
+        "question": "An autopsy of a 58-year-old who died suddenly shows a ruptured coronary plaque with overlying thrombus. Which plaque feature most predisposed to rupture?",
+        "options": [
+            "A thin fibrous cap degraded by macrophage MMPs",
+            "Absence of inflammatory cells in the shoulder region",
+            "Predominance of synthetic smooth muscle cells in the cap",
+            "Dense calcification throughout the plaque",
+            "A thick collagen-rich cap with a small lipid core"
+        ],
+        "correct_answer": "A thin fibrous cap degraded by macrophage MMPs",
+        "explanation": "The vulnerable plaque has a THIN fibrous cap, a large lipid core, many inflammatory cells (macrophages, T cells; IL-1, IL-6, TNF-alpha), and matrix-degrading enzymes (MMPs, collagenases) that break down the extracellular matrix of the cap. The plaque shoulder is the classic site of rupture. Inflammatory cells are also the major source of tissue factor, which triggers thrombosis when exposed to blood. Thick, collagen-rich caps with small lipid cores are stable."
+    },
+    {
+        "id": 6,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemia Treatment",
+        "question": "A 57-year-old man has a drug-eluting stent placed after an NSTEMI and is discharged on aspirin and clopidogrel. Two months later he has stent thrombosis despite perfect adherence. Genetic testing would most likely reveal reduced function of which enzyme?",
+        "options": [
+            "VKORC1",
+            "CYP2D6",
+            "Thiopurine methyltransferase",
+            "CYP3A4",
+            "CYP2C19"
+        ],
+        "correct_answer": "CYP2C19",
+        "explanation": "Clopidogrel is a prodrug that must be oxidized, principally by CYP2C19, to its active metabolite, which irreversibly blocks the platelet P2Y12 ADP receptor (preventing GP IIb/IIIa activation). CYP2C19 poor metabolizers (about 2-14% of the population) get less platelet inhibition and have higher cardiovascular event rates. Proton pump inhibitors can also reduce its effect. Prasugrel or ticagrelor give more potent, less variable inhibition."
+    },
+    {
+        "id": 7,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Acute Ischemia Treatment",
+        "question": "A 63-year-old woman treated with unfractionated heparin for NSTEMI has a platelet count that falls from 240,000 to 95,000/uL on day 6, and she develops a new right leg DVT. Which anticoagulant is most appropriate now?",
+        "options": [
+            "Switch to bivalirudin",
+            "Add aspirin and continue heparin",
+            "Give platelet transfusion and continue heparin",
+            "Switch to enoxaparin",
+            "Continue unfractionated heparin at a higher dose"
+        ],
+        "correct_answer": "Switch to bivalirudin",
+        "explanation": "This is heparin-induced thrombocytopenia (immune-mediated, about 1-2% of patients): a progressive platelet fall with paradoxical thrombosis. All heparin, including LMWH, must be stopped. Direct thrombin inhibitors such as bivalirudin bind both circulating and clot-bound thrombin without antithrombin, and the lecture's table lists 'no HIT' as a key advantage. Unfractionated heparin works by potentiating antithrombin III and is monitored with the aPTT."
+    },
+    {
+        "id": 8,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pathophysiology",
+        "question": "A 17-year-old has blood pressure of 162/88 mmHg in the right arm and 104/70 mmHg in the leg, with leg cramps when running. Femoral pulses are weak and delayed. Chest x-ray shows notching of the inferior rib margins. Which associated cardiac abnormality should be sought?",
+        "options": [
+            "Tetralogy of Fallot",
+            "Mitral valve prolapse",
+            "Bicuspid aortic valve",
+            "Atrial septal defect",
+            "Hypertrophic cardiomyopathy"
+        ],
+        "correct_answer": "Bicuspid aortic valve",
+        "explanation": "Post-ductal coarctation of the aorta presents later in life with upper-extremity hypertension, absent or delayed lower-extremity pulses with lower BP in the legs, and leg claudication. Enlarged intercostal collaterals cause rib notching, and the '3 sign' may be seen. It is associated with a bicuspid aortic valve and is diagnosed by echo with or without catheterization. Pre-ductal coarctation causes obstructive shock in newborns."
+    },
+    {
+        "id": 9,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pathophysiology",
+        "question": "A 46-year-old woman has blood pressure of 158/96 mmHg despite three medications and an unexplained serum potassium of 3.1 mEq/L while on no diuretic. Which screening test is most appropriate?",
+        "options": [
+            "Plasma aldosterone-to-renin ratio",
+            "Serum TSH",
+            "Renal artery duplex ultrasound",
+            "Overnight polysomnography",
+            "24-hour urine metanephrines"
+        ],
+        "correct_answer": "Plasma aldosterone-to-renin ratio",
+        "explanation": "Unexplained hypokalemia plus hypertension in an adult suggests primary hyperaldosteronism (Conn syndrome), with excess aldosterone from one or both adrenals and suppressed renin. The lecture notes it is common, especially in resistant HTN (about 22%), and is screened with the aldosterone-renin ratio, followed by abdominal CT for adenoma or hyperplasia. Spironolactone is the treatment of choice. Urine metanephrines screen for pheochromocytoma."
+    },
+    {
+        "id": 10,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pharmacology",
+        "question": "A 61-year-old man with hypertension is started on hydrochlorothiazide. Six weeks later he presents with an acutely painful, swollen first metatarsophalangeal joint. Which drug effect most likely precipitated this?",
+        "options": [
+            "Hyperuricemia",
+            "Hyponatremia-induced cellular swelling",
+            "Hypermagnesemia",
+            "Hyperkalemia",
+            "Metabolic acidosis"
+        ],
+        "correct_answer": "Hyperuricemia",
+        "explanation": "Thiazides reduce urate excretion, raising serum uric acid and precipitating gout, so the lecture advises caution in gout. Other thiazide toxicities include hypokalemia and hypomagnesemia. Thiazides decrease urinary calcium loss, which helps patients with recurrent calcium stones. Use another class in renal failure, sulfa allergy, pregnancy or breastfeeding. Side effects include photosensitivity, dizziness and weakness."
+    },
+    {
+        "id": 11,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: HTN Pharmacology",
+        "question": "A 54-year-old man with type 2 diabetes has a BP of 146/92 mmHg and a urine albumin-to-creatinine ratio of 320 mg/g. Which agent is the preferred first choice, and why?",
+        "options": [
+            "An ACE inhibitor, to dilate the efferent arteriole",
+            "Amlodipine, since dihydropyridines have no renal effects",
+            "Metoprolol, since beta-1 blockade reduces renin release",
+            "Hydrochlorothiazide, since it lowers urinary calcium losses",
+            "Hydralazine, since it is useful with renal dysfunction"
+        ],
+        "correct_answer": "An ACE inhibitor, to dilate the efferent arteriole",
+        "explanation": "In diabetes with proteinuria, an ACE inhibitor or ARB is the first choice. Blocking angiotensin II dilates the efferent arteriole, lowering intraglomerular pressure and protein leak. ACE inhibitors also reduce aldosterone and renal protein kinase C activity, which discourages diabetic nephropathy. ACE inhibitors and ARBs should never be combined."
+    },
+    {
+        "id": 12,
+        "faculty": "Daniel Mockler",
+        "session": "B8: Video: Cardiac Biomarkers",
+        "question": "A patient admitted with an NSTEMI has troponin values that peak on day 1 and then decline steadily. On day 4 he develops recurrent chest pain. According to the lecture, how can reinfarction be detected?",
+        "options": [
+            "It cannot be detected biochemically within 2 weeks",
+            "By measuring urine myoglobin every 6 hours",
+            "A re-elevation of troponin after it plateaus or declines",
+            "Only with CK-MB, because troponin stays elevated too long",
+            "By measuring total LDH and its isoenzyme flip"
+        ],
+        "correct_answer": "A re-elevation of troponin after it plateaus or declines",
+        "explanation": "A traditional argument for keeping CK-MB was that troponin stays elevated up to about 2 weeks, while CK-MB normalizes in 2-3 days. The lecture states it is now clear that reinfarction can be detected by a re-elevation of cTn after it reaches a plateau or declines toward normal. cTn is released before CK-MB, stays elevated longer, and can also estimate infarct size, making CK-MB largely obsolete."
+    },
+    {
+        "id": 13,
+        "faculty": "Daniel Mockler",
+        "session": "B8: Video: Cardiac Biomarkers",
+        "question": "Which use of BNP or NT-proBNP is NOT currently recommended for routine care?",
+        "options": [
+            "Risk stratification and prognosis in known heart failure",
+            "Prognostic information in acute coronary syndrome",
+            "Distinguishing cardiac from pulmonary causes of acute dyspnea",
+            "Serial measurements to titrate heart failure medications",
+            "Diagnostic adjunct when heart failure is uncertain in acute care"
+        ],
+        "correct_answer": "Serial measurements to titrate heart failure medications",
+        "explanation": "ACC/AHA guidelines support BNP or NT-proBNP for risk and prognosis in known heart failure. Natriuretic peptides help separate cardiac from pulmonary dyspnea and add prognostic information in ACS. Serial measurements to guide therapy are not routinely recommended because of wide biological variation, lack of accepted targets, delayed response to therapy and no proven effect on outcomes. If used, outpatient intervals are at least 2-4 weeks; inpatients are commonly measured once per admission."
+    },
+    {
+        "id": 14,
+        "faculty": "Daniel Mockler",
+        "session": "B8: Video: Cardiac Biomarkers",
+        "question": "A rural clinic does not offer cardiac troponin testing. Which test is the best alternative for detecting acute myocardial injury?",
+        "options": [
+            "Aspartate aminotransferase (AST)",
+            "Lactate dehydrogenase isoenzymes",
+            "Total creatine kinase activity",
+            "CK-MB measured by mass assay",
+            "Urine myoglobin"
+        ],
+        "correct_answer": "CK-MB measured by mass assay",
+        "explanation": "When troponin is unavailable, CK-MB by mass assay is the next best option. Total CK is sensitive but nonspecific because of its high concentration in skeletal muscle; LDH and AST (the original 1950s 'cardiac enzymes') are nonspecific; and myoglobin is not typically measured in urine. CK-MB appears somewhat later because of its relatively large molecular size and is only relatively cardiac-specific."
+    },
+    {
+        "id": 15,
+        "faculty": "Daniel Mockler",
+        "session": "B8: Video: Cardiac Biomarkers",
+        "question": "After proBNP is cleaved, how is the biologically inert N-terminal fragment (NT-proBNP) cleared?",
+        "options": [
+            "By pulmonary endothelium",
+            "By natriuretic peptide clearance receptors",
+            "By plasma neutral endopeptidases",
+            "Hepatically",
+            "Renally"
+        ],
+        "correct_answer": "Renally",
+        "explanation": "Active BNP is cleared by natriuretic peptide receptors and plasma endopeptidases. NT-proBNP undergoes renal clearance, which is why it is more affected by renal insufficiency. Either can be measured; cutoffs differ, but diagnostic performance is comparable."
+    },
+    {
+        "id": 16,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-Anginals",
+        "question": "Nitroglycerin is converted to nitric oxide in vascular smooth muscle. What is the next step in its mechanism of vasodilation?",
+        "options": [
+            "NO activates adenylyl cyclase, increasing cAMP",
+            "NO blocks L-type calcium channels",
+            "NO stimulates beta-2 adrenergic receptors",
+            "NO inhibits phosphodiesterase-3",
+            "NO activates soluble guanylyl cyclase, increasing cGMP"
+        ],
+        "correct_answer": "NO activates soluble guanylyl cyclase, increasing cGMP",
+        "explanation": "Nitrates are converted to nitrites (glutathione S-transferase) and then to NO. NO stimulates guanylyl cyclase to raise cGMP, which leads to myosin light chain dephosphorylation and smooth muscle relaxation. This shared cGMP pathway explains the dangerous interaction with PDE5 inhibitors."
+    },
+    {
+        "id": 17,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-Anginals",
+        "question": "A 41-year-old woman has early-morning chest pain at rest with transient ST elevation, and angiography shows no significant fixed stenosis. Which drug class is most efficacious for preventing her episodes?",
+        "options": [
+            "Ranolazine (late Na+ blocker)",
+            "Calcium channel blockers",
+            "GP IIb/IIIa inhibitors",
+            "Beta-adrenergic blockers",
+            "HMG-CoA reductase inhibitors"
+        ],
+        "correct_answer": "Calcium channel blockers",
+        "explanation": "Variant (vasospastic, Prinzmetal) angina is caused by spontaneous coronary constriction. Calcium channel blockers relax coronary smooth muscle and are rated most efficacious (+++), and nitrates also help. Beta-blockers are rated 0 and are considered contraindicated because they may worsen vasospasm (unopposed alpha-mediated constriction)."
+    },
+    {
+        "id": 18,
+        "faculty": "Normand Leblanc",
+        "session": "B8: Video: Alpha And Beta Blockers",
+        "question": "A 42-year-old woman with a confirmed adrenal pheochromocytoma is scheduled for adrenalectomy in 2 weeks. Which drug is used to prepare her for surgery by irreversibly blocking alpha receptors?",
+        "options": [
+            "Propranolol",
+            "Phentolamine",
+            "Phenoxybenzamine",
+            "Prazosin",
+            "Labetalol"
+        ],
+        "correct_answer": "Phenoxybenzamine",
+        "explanation": "Phenoxybenzamine covalently ('irreversibly') blocks alpha-1 and alpha-2 receptors; recovery requires synthesis of new receptors, so its effect lasts days. It is used for 1-3 weeks before tumor resection (starting about 10 mg twice daily and titrating to BP control). Beta-blockers should not be started first, since blocking beta-2 vasodilation leaves alpha-mediated vasoconstriction unopposed. Phentolamine is a reversible competitive alpha blocker for short-term or acute control."
+    },
+    {
+        "id": 19,
+        "faculty": "Normand Leblanc",
+        "session": "B8: Video: Alpha And Beta Blockers",
+        "question": "A 19-year-old with type 1 diabetes on insulin is started on a nonselective beta-blocker. Why does the lecture advise caution?",
+        "options": [
+            "They cause diabetic ketoacidosis by blocking insulin action",
+            "They raise blood glucose by enhancing glycogenolysis",
+            "They blunt catecholamine-driven recovery from hypoglycemia",
+            "They increase renal glucose excretion",
+            "They stimulate insulin secretion from pancreatic beta cells"
+        ],
+        "correct_answer": "They blunt catecholamine-driven recovery from hypoglycemia",
+        "explanation": "Catecholamines promote glycogenolysis and glucose mobilization to recover from hypoglycemia (and produce warning symptoms such as tremor and tachycardia). Beta-blockers blunt these responses, mainly in type 1 diabetes and less often in type 2. Classical beta-blockers like propranolol can lower blood glucose further. If a beta-blocker is needed in a diabetic, a beta-1-selective agent is preferred."
+    },
+    {
+        "id": 20,
+        "faculty": "Lorrel Toft",
+        "session": "B8: (REQUIRED) EKG Reading",
+        "question": "A 68-year-old presents with palpitations and chest pressure. His ECG shows a regular rhythm at about 150 bpm. What is the rhythm?",
+        "options": [
+            "Torsades de pointes",
+            "Ventricular fibrillation",
+            "Monomorphic ventricular tachycardia",
+            "Atrial flutter with 2:1 block",
+            "Sinus tachycardia with left bundle branch block"
+        ],
+        "correct_answer": "Monomorphic ventricular tachycardia",
+        "explanation": "Dr. Toft's read: monomorphic VT at about 150 bpm with a QRS of about 180 ms and no identifiable relationship to P waves. A regular wide-complex tachycardia with uniform QRS morphology, especially in an older patient with likely structural heart disease, should be treated as VT until proven otherwise. Torsades is polymorphic, with a twisting QRS amplitude around the baseline; VF is chaotic with no discrete QRS complexes.",
+        "image": "images/b8_ekg_12_vt.jpg"
+    },
+    {
+        "id": 21,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Arrhythmia",
+        "question": "The lecture describes re-entry as the mechanism responsible for most clinically significant arrhythmias. Which set of conditions is required for re-entry?",
+        "options": [
+            "Parallel pathways, unidirectional block, slowed conduction",
+            "Increased phase 4 slope in sinoatrial pacemaker cells",
+            "A single pathway with bidirectional block and rapid conduction",
+            "Prolonged QT interval causing early afterdepolarizations",
+            "Calcium overload causing delayed afterdepolarizations"
+        ],
+        "correct_answer": "Parallel pathways, unidirectional block, slowed conduction",
+        "explanation": "Re-entry is continuous electrical activity around a circuit instead of the impulse dying out. It requires multiple parallel pathways, an area of unidirectional block, and slowed conduction, so the returning impulse finds previously blocked tissue recovered. Re-entrant arrhythmias include AVNRT, atrial flutter (one right atrial circuit), atrial fibrillation (multiple circuits), atrial tachycardia, VT (one ventricular circuit) and VF (many circuits)."
+    },
+    {
+        "id": 22,
+        "faculty": "Lorrel Toft",
+        "session": "B8: (REQUIRED) EKG Reading",
+        "question": "A 65-year-old man has 2 hours of chest pain and lightheadedness. His ECG shows an atrial rate of about 100 bpm and a ventricular rate of about 42 bpm. Which artery is most likely occluded, explaining both abnormalities?",
+        "options": [
+            "First diagonal branch",
+            "Left anterior descending artery",
+            "Right coronary artery",
+            "Left main coronary artery",
+            "Left circumflex artery"
+        ],
+        "correct_answer": "Right coronary artery",
+        "explanation": "Dr. Toft's read: inferior STEMI plus complete heart block. There is ST elevation in II, III and aVF with reciprocal ST depression (aVL, V2-V3), and the P waves march through independently of the slow QRS complexes (AV dissociation, third-degree block). In most patients (right-dominant circulation) the RCA supplies the inferior wall and gives off the AV nodal artery, so an RCA occlusion causes both inferior injury and AV block. (When ST elevation is greater in III than in II, that also favors the RCA.)",
+        "image": "images/b8_ekg_16_inferior_chb.jpg"
+    },
+    {
+        "id": 23,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Chest Pain Cases",
+        "question": "A 60-year-old woman presents with 2 hours of burning chest discomfort, diaphoresis and nausea, and the cath lab is activated for a STEMI. She has a colon polyp resection scheduled in 1 month. If she receives a drug-eluting stent, what is the most appropriate plan for the polyp resection?",
+        "options": [
+            "Proceed as scheduled and stop all antiplatelets 1 week before",
+            "Proceed, then cancel antiplatelet therapy permanently",
+            "Perform the resection the day after the stent is placed",
+            "Postpone it, since early DAPT interruption risks stent thrombosis",
+            "Proceed as scheduled while bridging with full-dose heparin"
+        ],
+        "correct_answer": "Postpone it, since early DAPT interruption risks stent thrombosis",
+        "explanation": "After PCI for ACS, patients need uninterrupted dual antiplatelet therapy (aspirin plus a P2Y12 inhibitor) in the early months. Stopping it for elective surgery risks catastrophic stent thrombosis. An elective procedure such as polyp resection should generally be deferred and coordinated with cardiology. Her atypical 'dyspepsia' presentation is a reminder that women and diabetics can have atypical ACS symptoms."
+    },
+    {
+        "id": 24,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Chest Pain Cases",
+        "question": "During an acute transmural infarction, injured myocytes lose ATP, open K+ channels, and leak potassium. How does this produce ST elevation on the surface ECG?",
+        "options": [
+            "Injured cells hyperpolarize, which deepens the TP segment relative to the ST segment",
+            "Ischemia prolongs atrial repolarization into the ST segment",
+            "Less negative resting potential in injured cells creates an injury current",
+            "Injured cells depolarize faster, producing taller R waves",
+            "Ischemia speeds conduction through the His-Purkinje system"
+        ],
+        "correct_answer": "Less negative resting potential in injured cells creates an injury current",
+        "explanation": "With ischemic injury, K+ leaks out (Na/K pump failure, ATP-sensitive K+ channels open), so injured cells have a less negative resting potential and shorter, smaller action potentials. The voltage difference between injured and normal myocardium creates an 'injury current' that shifts the diastolic baseline and the ST segment relative to each other. Leads facing the injured zone show ST elevation, and opposite leads show reciprocal depression. The same depolarization slows conduction and favors re-entry."
+    },
+    {
+        "id": 25,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "A 68-year-old man has fever, a new diastolic murmur and positive blood cultures for Streptococcus gallolyticus (formerly S. bovis). Which test should be performed after he is treated?",
+        "options": [
+            "Transesophageal echo of the tricuspid valve only",
+            "Bone marrow biopsy",
+            "Upper endoscopy for peptic ulcer",
+            "Dental panoramic radiograph",
+            "Colonoscopy"
+        ],
+        "correct_answer": "Colonoscopy",
+        "explanation": "Strep bovis (gallolyticus) endocarditis is classically associated with colorectal carcinoma, so colonoscopy is indicated. Other organism clues: viridans streptococci (mouth, dental procedures), S. aureus (skin, IV drug use, acute and destructive), S. epidermidis and Candida (prosthetic valves), enterococci, HACEK organisms, Coxiella (farm animals) and Bartonella (lice). About 10% have no organism identified."
+    },
+    {
+        "id": 26,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "A 24-year-old man with S. aureus aortic valve endocarditis has a PR interval of 217 ms on admission. Two days later the PR is markedly prolonged, and that evening he develops complete heart block. What is the most likely explanation, and what is indicated?",
+        "options": [
+            "Hypokalemia from sepsis; replace potassium",
+            "Concurrent viral myocarditis; supportive care only",
+            "Antibiotic-induced AV nodal toxicity; change antibiotics",
+            "Increased vagal tone from fever; observation and antipyretics",
+            "Paravalvular abscess into the conduction system; surgery"
+        ],
+        "correct_answer": "Paravalvular abscess into the conduction system; surgery",
+        "explanation": "Aggressive organisms such as S. aureus produce friable vegetations that erode underlying myocardium, causing abscess or septal destruction. An aortic valve ring abscess can extend into the nearby AV node and His bundle, producing progressive AV block, which this lecture case shows evolving from first-degree block to complete heart block within hours. Surgical indications: paravalvular extension (abscess, heart block), ongoing emboli, heart failure from valve dysfunction, persistent bacteremia, and vegetation size."
+    },
+    {
+        "id": 27,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "A 25-year-old woman recently arrived from rural Panama presents with heart failure. Endomyocardial biopsy shows parasites clustered within cardiac myocytes. How was this infection most likely acquired?",
+        "options": [
+            "Ingestion of undercooked pork containing larvae",
+            "Bite of a sandfly in tropical forest regions",
+            "Kissing bug feces entering a skin or mucosal break",
+            "Inhalation of fungal spores from bird or bat droppings",
+            "Bite of an Ixodes tick carrying spirochetes"
+        ],
+        "correct_answer": "Kissing bug feces entering a skin or mucosal break",
+        "explanation": "Chagas disease is caused by Trypanosoma cruzi, carried by blood-sucking triatomine bugs from the southern US to Chile. The bug takes a blood meal and leaves parasite-laden feces that enter through mucosa, conjunctiva or skin breaks. Infection is lifelong. A minority develop chronic inflammatory cardiomyopathy, and death results mainly from arrhythmias and heart failure. Biopsy shows parasites within myocytes."
+    },
+    {
+        "id": 28,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Endocarditis, Myocarditis, Pericardial Disease, and Tumors",
+        "question": "An infant with seizures, hypopigmented ash-leaf macules and multiple 3-4 cm masses protruding into the ventricles is evaluated. Histology of a mass shows large clear cells with glycogen vacuoles and cytoplasmic strands radiating from the nucleus to the membrane ('spider cells'). Mutations in which genes are associated?",
+        "options": [
+            "TSC1 or TSC2",
+            "PRKAR1A (Carney complex)",
+            "RB1 (retinoblastoma)",
+            "NF1 (neurofibromin)",
+            "VHL (von Hippel-Lindau)"
+        ],
+        "correct_answer": "TSC1 or TSC2",
+        "explanation": "Rhabdomyoma is the most common primary cardiac tumor in children. It is a hamartoma caused by mutations in TSC1 or TSC2, and about 50% of patients have tuberous sclerosis. The masses are often multiple, embedded in the ventricular wall (can obstruct), and show glycogen-rich 'spider cells' without mitoses."
+    },
+    {
+        "id": 29,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Heart Failure And Hemodynamics",
+        "question": "A 68-year-old man with ischemic cardiomyopathy (EF 20%) presents with confusion, cool clammy extremities, BP 84/58 mmHg, rising creatinine, bilateral rales, orthopnea and JVP at the angle of the jaw. How is his heart failure profile best classified?",
+        "options": [
+            "Cold and dry",
+            "Cold and wet",
+            "High-output heart failure",
+            "Warm and dry",
+            "Warm and wet"
+        ],
+        "correct_answer": "Cold and wet",
+        "explanation": "Congestive ('wet') signs reflect elevated filling pressures: left-sided (high LA pressure/PCWP) causes dyspnea, orthopnea, PND and pulmonary edema; right-sided (high RA pressure) causes edema, hepatomegaly, ascites and anorexia. Low-output ('cold') signs reflect poor perfusion: fatigue, cool skin, renal dysfunction and confusion. On the Frank-Starling curve he is at point E: severely reduced contractility with greatly increased volume. Cold-and-wet patients need inotropic support plus decongestion."
+    },
+    {
+        "id": 30,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Heart Failure And Hemodynamics",
+        "question": "A 72-year-old man with heart failure and preserved EF has a markedly thickened LV wall on echo, biatrial enlargement, and low QRS voltage on ECG. An abdominal fat pad biopsy shows apple-green birefringence with Congo red under polarized light. What is the diagnosis?",
+        "options": [
+            "Cardiac amyloidosis",
+            "Hypertensive heart disease",
+            "Alcoholic dilated cardiomyopathy",
+            "Hypertrophic cardiomyopathy",
+            "Constrictive pericarditis"
+        ],
+        "correct_answer": "Cardiac amyloidosis",
+        "explanation": "Restrictive/infiltrative cardiomyopathies deposit material within the myocardium: amyloid (AL light chains from a plasma cell dyscrasia, or transthyretin mutations), sarcoid granulomas, or iron in hemochromatosis. They usually cause non-systolic HF. A classic clue is low ECG voltage despite a thick myocardium, because the wall is infiltrated rather than hypertrophied. Amyloid stains with Congo red and shows apple-green birefringence."
+    },
+    {
+        "id": 31,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Aortic Dissection and other Cardiac Traumas",
+        "question": "A patient with acute aortic dissection has BP 182/104 mmHg and HR 108 bpm. Which drug should be started first to reduce aortic wall shear stress?",
+        "options": [
+            "Sublingual nitroglycerin",
+            "IV esmolol or labetalol",
+            "IV hydralazine",
+            "IV furosemide",
+            "IV nitroprusside alone"
+        ],
+        "correct_answer": "IV esmolol or labetalol",
+        "explanation": "Anti-impulse therapy reduces shear stress (dP/dt) on the aortic wall while the definitive plan is made: IV beta-blockade (esmolol or labetalol) targeting HR about 60-80 bpm and SBP under about 120 mmHg if organ perfusion is maintained, adding a vasodilator if needed. Beta-blockade comes first, because a vasodilator alone causes reflex tachycardia that increases shear stress and can propagate the dissection."
+    },
+    {
+        "id": 32,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Aortic Dissection and other Cardiac Traumas",
+        "question": "Two hours after onset of a Stanford type B dissection, a 58-year-old man develops severe abdominal pain out of proportion to exam, a rising lactate and new oliguria with rising creatinine. What is the most appropriate management?",
+        "options": [
+            "Continue anti-impulse therapy and observe in the ICU",
+            "Start thrombolytics for mesenteric ischemia",
+            "Urgent endovascular repair (TEVAR) with anti-impulse therapy",
+            "Discharge on oral beta-blocker with outpatient CT",
+            "Emergent cardiac surgery to replace the ascending aorta"
+        ],
+        "correct_answer": "Urgent endovascular repair (TEVAR) with anti-impulse therapy",
+        "explanation": "Mesenteric ischemia (pain, rising lactate) and renal failure signal malperfusion, making this a complicated type B dissection. Uncomplicated type B is treated with anti-impulse therapy and close ICU monitoring. Complicated type B (malperfusion, rupture, refractory pain or hypertension) needs urgent intervention; TEVAR is often preferred when anatomy permits, covering the entry tear to restore true-lumen flow. Type A goes to emergent cardiac surgery."
+    },
+    {
+        "id": 33,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Venous Insufficiency",
+        "question": "A 70-year-old woman with long-standing varicose veins and leg edema develops a shallow, irregular, moderately painful ulcer just above the medial malleolus surrounded by hyperpigmented, indurated skin. Her pedal pulses are normal. What is the most likely type of ulcer?",
+        "options": [
+            "Venous stasis ulcer",
+            "Arterial (ischemic) ulcer",
+            "Pyoderma gangrenosum",
+            "Neuropathic diabetic ulcer",
+            "Pressure ulcer"
+        ],
+        "correct_answer": "Venous stasis ulcer",
+        "explanation": "Venous ulcers classically occur near the medial malleolus (gaiter area) and are shallow and irregular, with surrounding edema, hyperpigmentation and stasis dermatitis; pulses are intact, and they improve with compression. Arterial ulcers occur distally (toes, pressure points), are punched-out and very painful, and come with claudication, diminished pulses and a low ankle-brachial index. Neuropathic ulcers occur on weight-bearing plantar surfaces."
+    },
+    {
+        "id": 34,
+        "faculty": "Benjamin Jaquish",
+        "session": "B8: (REQUIRED) Venous Insufficiency",
+        "question": "A patient with symptomatic great saphenous vein reflux is being evaluated for endovenous radiofrequency ablation. Duplex ultrasound shows an acute thrombus in the ipsilateral femoral vein. Why does this finding prevent ablation?",
+        "options": [
+            "Radiofrequency energy is ineffective while on heparin",
+            "Ablation is contraindicated only when arterial disease coexists",
+            "The femoral thrombus is unrelated to the superficial system",
+            "It removes collateral outflow while the deep veins are blocked",
+            "DVT contraindicates only compression stockings, not ablation"
+        ],
+        "correct_answer": "It removes collateral outflow while the deep veins are blocked",
+        "explanation": "The lecture identifies deep venous thrombosis as a contraindication to radiofrequency ablation. When the deep system is obstructed, superficial veins may serve as important collateral outflow, and thermal ablation could worsen venous hypertension and extend thrombosis. Duplex ultrasound to confirm deep system patency, and to map reflux in the great saphenous, small saphenous and perforating veins, is required before any superficial venous procedure."
+    },
+    {
+        "id": 35,
+        "faculty": "Jad Al danaf",
+        "session": "B8: (REQUIRED) Treatment Decisions - Statin Therapy For DLD",
+        "question": "A 67-year-old man who had an MI at age 50 takes atorvastatin 20 mg with no side effects. His LDL-C is 92 mg/dL. He says, 'My LDL is under 100, so I'm fine.' What is the most appropriate response?",
+        "options": [
+            "Switch from the statin to fenofibrate",
+            "Intensify to high-intensity statin, goal LDL under 55",
+            "Add extended-release niacin to raise HDL",
+            "Reassure him, since LDL under 100 is acceptable",
+            "Stop the statin, since his LDL is already low"
+        ],
+        "correct_answer": "Intensify to high-intensity statin, goal LDL under 55",
+        "explanation": "Prior MI places him in secondary prevention, a different target zone. The question is not 'Is LDL 92 good?' but 'Is it low enough for this patient's risk?' Most patients with clinical ASCVD qualify for an LDL-C goal under 55 mg/dL (non-HDL under 85) when very high risk, and at least under 70 otherwise. Maximize statin intensity, then add a nonstatin if still above goal."
+    },
+    {
+        "id": 36,
+        "faculty": "Jad Al danaf",
+        "session": "B8: (REQUIRED) Treatment Decisions - Statin Therapy For DLD",
+        "question": "Which statin regimen qualifies as HIGH intensity, defined as an expected LDL-C reduction of at least 50%?",
+        "options": [
+            "Pravastatin 40-80 mg",
+            "Rosuvastatin 5-10 mg",
+            "Rosuvastatin 20-40 mg",
+            "Atorvastatin 10-20 mg",
+            "Simvastatin 20-40 mg"
+        ],
+        "correct_answer": "Rosuvastatin 20-40 mg",
+        "explanation": "High intensity (LDL reduction of 50% or more): atorvastatin 40-80 mg, rosuvastatin 20-40 mg. Moderate (30-49%): atorvastatin 10-20, rosuvastatin 5-10, simvastatin 20-40, pravastatin 40-80. Low (under 30%): pravastatin 10-20, simvastatin 10, rosuvastatin 2.5-5. Clinical ASCVD warrants a high-intensity statin aiming for more than 50% LDL reduction."
+    },
+    {
+        "id": 37,
+        "faculty": "Jad Al danaf",
+        "session": "B8: (REQUIRED) Treatment Decisions - Statin Therapy For DLD",
+        "question": "A 28-year-old man has an LDL-C of 238 mg/dL and a firm nodule on his Achilles tendon. His father had an MI at 42. TSH is normal and he has no diabetes. Besides starting aggressive LDL-lowering therapy, what else is most important?",
+        "options": [
+            "Start a fibrate for mixed dyslipidemia",
+            "Cascade screening of first-degree relatives",
+            "Reassure him, since his 10-year risk is low",
+            "Check HDL and treat it if low",
+            "Order a CAC score before deciding on treatment"
+        ],
+        "correct_answer": "Cascade screening of first-degree relatives",
+        "explanation": "LDL of 190 or more plus premature family ASCVD and a tendon xanthoma is a strong signal for familial hypercholesterolemia (usually LDL receptor mutations). Treat aggressively and exclude secondary causes. Because FH is inherited, the treatment decision is also a family-level prevention opportunity: screen first-degree relatives and consider genetic testing. Memory hook: very high LDL + early events + family clustering = think FH."
+    },
+    {
+        "id": 38,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Anti-arrythmic Drugs",
+        "question": "A 66-year-old woman with ischemic cardiomyopathy (EF 15%) has recurrent sustained monomorphic VT with multiple ICD shocks despite IV amiodarone. Lidocaine is added. What property distinguishes lidocaine's class from the other class I antiarrhythmics?",
+        "options": [
+            "It is most effective for atrial fibrillation",
+            "It shortens AP duration, so torsades risk is minimal",
+            "It prolongs AP duration and the QTc interval",
+            "It blocks L-type calcium channels in the AV node",
+            "It has the highest affinity of any Na+ channel blocker"
+        ],
+        "correct_answer": "It shortens AP duration, so torsades risk is minimal",
+        "explanation": "Class IB drugs (lidocaine, mexiletine) bind with low affinity and dissociate rapidly, preferentially binding open/inactivated Na+ channels. Ischemic tissue is depolarized (high extracellular K+), so channels spend more time inactivated, making IB drugs excellent for ischemic VT. They shorten AP duration (shorter QT), so there is no torsades risk, and they have little atrial effect. Class IA prolongs AP duration and QT; class IC has the highest Na+ channel affinity."
+    },
+    {
+        "id": 39,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Anti-arrythmic Drugs",
+        "question": "A 70-year-old man with HFrEF (EF 20%) has both atrial fibrillation and runs of nonsustained VT, and is started on a drug that treats both. Which test does NOT need routine monitoring with long-term use of this drug?",
+        "options": [
+            "Pulmonary function tests",
+            "Renal function tests",
+            "Thyroid function tests",
+            "Ophthalmologic exam",
+            "Liver function tests"
+        ],
+        "correct_answer": "Renal function tests",
+        "explanation": "Amiodarone is effective for atrial and ventricular arrhythmias and is acceptable in structural heart disease. Its toxicity comes from accumulation outside the heart (huge volume of distribution, half-life 13-103 days): thyroid (hypothyroidism most common), pulmonary toxicity, liver injury, corneal deposits, photosensitivity and blue-gray skin. Surveillance includes TFTs, LFTs, PFTs and annual eye exams. Flecainide and quinidine are inappropriate with reduced EF, and lidocaine and diltiazem do not treat both."
+    },
+    {
+        "id": 40,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Anti-arrythmic Drugs",
+        "question": "A 64-year-old man hospitalized with pneumonia develops a regular narrow-complex tachycardia at 150 bpm while stable. A rapid IV drug causes transient AV block, revealing regular saw-tooth atrial waves at about 300 bpm. Which drug was given, and what is the diagnosis?",
+        "options": [
+            "Adenosine; atrial flutter",
+            "Adenosine; AV nodal re-entrant tachycardia",
+            "Digoxin; atrial fibrillation",
+            "Procainamide; atrial flutter",
+            "Amiodarone; atrial fibrillation"
+        ],
+        "correct_answer": "Adenosine; atrial flutter",
+        "explanation": "Adenosine activates K+ channels and blocks Ca2+ influx in nodal tissue, transiently blocking AV conduction (half-life of seconds). It terminates SVTs that depend on the AV node, such as AVNRT. In atrial flutter with 2:1 block (ventricular rate about 150), the atrial circuit is independent of the AV node, so adenosine does not terminate it but unmasks the flutter waves, which makes the diagnosis. Side effects include flushing, brief AV block and dyspnea. It can trigger AF and is contraindicated in pre-excited AF."
+    },
+    {
+        "id": 41,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Pharmacology Of Heart Failure",
+        "question": "A 64-year-old woman with HFrEF taking lisinopril is being switched to sacubitril-valsartan. What is required, and why?",
+        "options": [
+            "A 36-hour ACE inhibitor washout, to avoid angioedema",
+            "Stop the beta-blocker before switching",
+            "No washout is needed; switch the same day",
+            "Load with IV valsartan before oral therapy",
+            "A 2-week washout to prevent hyperkalemia"
+        ],
+        "correct_answer": "A 36-hour ACE inhibitor washout, to avoid angioedema",
+        "explanation": "Sacubitril inhibits neprilysin, raising natriuretic peptides (more vasodilation and natriuresis), and valsartan blocks AT1 receptors (less vasoconstriction). Both ACE and neprilysin degrade bradykinin, so combining them markedly increases angioedema risk. Patients on an ACE inhibitor need a 36-hour washout; patients on an ARB can switch directly. ARNI should not be used with a history of angioedema. In PARADIGM-HF it reduced CV death and HF hospitalization about 20% vs enalapril (NNT 21), with more hypotension and creatinine rise."
+    },
+    {
+        "id": 42,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Pharmacology Of Heart Failure",
+        "question": "A 66-year-old man with HFrEF on carvedilol 25 mg twice daily (target dose) is admitted with cardiogenic shock requiring dobutamine. What should be done with his beta-blocker?",
+        "options": [
+            "Stop it until he is out of shock",
+            "Double the dose to reduce arrhythmias",
+            "Continue at the full target dose",
+            "Switch to an IV esmolol infusion",
+            "Cut the dose in half and continue"
+        ],
+        "correct_answer": "Stop it until he is out of shock",
+        "explanation": "Beta-blocker benefit in HFrEF is chronic (fewer arrhythmias, protection from chronic adrenergic stimulation, reverse remodeling), but their abrupt negative inotropy can worsen acute decompensation. Lecture approach: chronic stable HF, start low and double every 2 weeks to target; acute decompensated HF, continue low doses, halve high doses, and wait until euvolemic before starting; cardiogenic shock or severe decompensation, STOP and do not start until out of shock."
+    },
+    {
+        "id": 43,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-arrhytmic Pharmacology",
+        "question": "A 12-year-old girl faints while running in gym class. Her resting ECG and QTc are normal, but exercise testing provokes bidirectional and polymorphic VT. She has a gain-of-function mutation in the cardiac ryanodine receptor (RyR2). What is the arrhythmia mechanism, and which drug class is first-line?",
+        "options": [
+            "Scar-mediated re-entry; amiodarone",
+            "Accessory pathway re-entry; procainamide",
+            "Early afterdepolarizations; class IA drugs",
+            "Delayed afterdepolarizations; beta-blockers",
+            "Excess vagal tone; atropine and pacing"
+        ],
+        "correct_answer": "Delayed afterdepolarizations; beta-blockers",
+        "explanation": "Catecholaminergic polymorphic VT (CPVT-1: RyR2 gain of function; CPVT-2: calsequestrin loss of function) causes spontaneous SR Ca2+ release under high sympathetic tone. Ca2+ extrusion by the Na/Ca exchanger generates an inward current that triggers delayed afterdepolarizations and VT. Beta-blockers (class II) are indicated, and non-dihydropyridine CCBs (class IV) are an alternative, since both reduce Ca2+ loading."
+    },
+    {
+        "id": 44,
+        "faculty": "Robert Harvey",
+        "session": "B8: Video: Anti-arrhytmic Pharmacology",
+        "question": "A 74-year-old man with HFrEF (EF 25%) and hypotension has atrial fibrillation with a rapid ventricular rate. Which agent can slow AV conduction while increasing contractility?",
+        "options": [
+            "Diltiazem",
+            "Verapamil",
+            "Flecainide",
+            "Esmolol",
+            "Digoxin"
+        ],
+        "correct_answer": "Digoxin",
+        "explanation": "Digoxin inhibits the Na/K ATPase (positive inotropy), and at low doses increases vagal tone centrally, slowing AV nodal conduction. In AF with heart failure it is preferred over class II and IV agents, whose negative inotropy can worsen failure. Its low therapeutic index means toxicity can cause heart block or life-threatening arrhythmias via DADs, and hypokalemia worsens toxicity."
+    },
+    {
+        "id": 45,
+        "faculty": "Joseph Stevenson",
+        "session": "B8: Pulmonary Hypertension",
+        "question": "A 34-year-old woman with progressive exertional dyspnea undergoes right heart catheterization. Mean pulmonary artery pressure is 48 mmHg at rest. Which additional finding is required to classify this as pulmonary ARTERIAL hypertension (WHO Group 1) rather than pulmonary hypertension from left heart disease?",
+        "options": [
+            "Elevated cardiac output",
+            "Right atrial pressure under 5 mmHg",
+            "PCWP above 25 mmHg",
+            "A mismatched V/Q scan defect",
+            "PCWP of 15 mmHg or less"
+        ],
+        "correct_answer": "PCWP of 15 mmHg or less",
+        "explanation": "Right heart catheterization is the gold standard. The lecture's definition of PAH is mean PAP of 25 mmHg or more at rest (or 30 or more with exercise) WITH a normal PCWP (15 mmHg or less), meaning the elevated pressure originates in the pulmonary arterial bed rather than being transmitted back from the left heart. An elevated PCWP points to Group 2 (left heart disease). RHC also measures CO, PVR, SvO2 and vasoreactivity."
+    },
+    {
+        "id": 46,
+        "faculty": "Joseph Stevenson",
+        "session": "B8: Pulmonary Hypertension",
+        "question": "A 29-year-old woman is diagnosed with PAH. Her mother and maternal aunt also had PAH diagnosed in their 30s. Mutation of which gene is most likely?",
+        "options": [
+            "BMPR2",
+            "MYH7",
+            "ALK1",
+            "FBN1",
+            "KCNH2"
+        ],
+        "correct_answer": "BMPR2",
+        "explanation": "BMPR2 mutations account for about 50% of familial PAH and about 10-15% of idiopathic PAH, and are rare in other types (e.g., anorexigen-associated). ALK1 mutations share the same signaling abnormalities and cause PAH associated with hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu)."
+    },
+    {
+        "id": 47,
+        "faculty": "Cherie Singer",
+        "session": "B8: Video: Hyperlipidemia Treatment",
+        "question": "A patient's LDL remains elevated on a statin, and ezetimibe is added. What is ezetimibe's target, and how does it ultimately lower plasma LDL?",
+        "options": [
+            "Activates PPAR-alpha, increasing lipoprotein lipase",
+            "Inhibits hepatic HMG-CoA reductase, lowering synthesis",
+            "Inhibits PCSK9, preventing LDL receptor degradation",
+            "Binds intestinal bile acids, increasing fecal loss",
+            "Blocks intestinal NPC1L1, so more hepatic LDL receptors"
+        ],
+        "correct_answer": "Blocks intestinal NPC1L1, so more hepatic LDL receptors",
+        "explanation": "Ezetimibe inhibits the Niemann-Pick C1-Like 1 (NPC1L1) sterol transporter in enterocytes. Less absorbed cholesterol reaches the liver via chylomicron remnants, lowering hepatic cholesterol and increasing LDL-receptor expression. It complements statins (less synthesis) and PCSK9 inhibitors (receptor recycling) because each attacks a different source or step."
+    },
+    {
+        "id": 48,
+        "faculty": "Cherie Singer",
+        "session": "B8: Video: Hyperlipidemia Treatment",
+        "question": "A 49-year-old woman with familial hypercholesterolemia has a partially functional LDL-receptor variant, and evolocumab lowers her LDL further. If she instead had an LDLR-null mutation (no functional receptors), what response to evolocumab would be expected?",
+        "options": [
+            "A paradoxical rise in plasma triglycerides",
+            "Complete elimination of circulating Lp(a)",
+            "A greater reduction, because PCSK9 levels are higher",
+            "Little effect, since no functional receptors remain",
+            "Complete normalization of LDL cholesterol"
+        ],
+        "correct_answer": "Little effect, since no functional receptors remain",
+        "explanation": "Evolocumab binds circulating PCSK9 and prevents PCSK9-mediated LDL-receptor degradation, so more receptors recycle to the hepatocyte surface. Statins increase receptor synthesis (via SREBP-2), and ezetimibe reduces hepatic cholesterol delivery. All three need at least some functional LDL receptors; with LDLR-null FH, statins and PCSK9 inhibitors are markedly less effective. Inclisiran (siRNA) reduces hepatic PCSK9 mRNA translation, giving the same downstream effect."
+    },
+    {
+        "id": 49,
+        "faculty": "Cherie Singer",
+        "session": "B8: Video: Hyperlipidemia Treatment",
+        "question": "A 64-year-old man on simvastatin 40 mg is prescribed clarithromycin for pneumonia. Five days later he has severe diffuse myalgias, dark urine and a markedly elevated CK. What is the mechanism?",
+        "options": [
+            "PPAR-alpha activation by clarithromycin",
+            "Simvastatin inhibiting clarithromycin metabolism",
+            "Direct macrolide toxicity to skeletal muscle",
+            "CYP3A4 induction lowering simvastatin levels",
+            "CYP3A4 inhibition raising simvastatin exposure"
+        ],
+        "correct_answer": "CYP3A4 inhibition raising simvastatin exposure",
+        "explanation": "Simvastatin is metabolized by CYP3A4. Strong inhibitors (macrolides such as clarithromycin, azole antifungals, protease inhibitors) raise statin levels and myopathy risk, up to rhabdomyolysis. Statin-associated muscle symptoms, myopathy and rhabdomyolysis are distinct entities; most muscle symptoms are manageable by pausing and rechallenging with a lower dose or a different statin."
+    },
+    {
+        "id": 50,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Valvular Disease",
+        "question": "An 81-year-old man has had two episodes of exertional syncope. He has a late-peaking crescendo-decrescendo murmur at the right upper sternal border, a single soft S2, and delayed, diminished carotid pulses. Echo shows a calcified trileaflet aortic valve with an area of 0.7 cm2 and normal EF. What is the most appropriate management?",
+        "options": [
+            "Aortic valve replacement (surgical or transcatheter)",
+            "Annual echo surveillance until EF falls below 50%",
+            "Start nitroglycerin and a diuretic",
+            "Start a statin to slow progression",
+            "Start a beta-blocker for symptom control"
+        ],
+        "correct_answer": "Aortic valve replacement (surgical or transcatheter)",
+        "explanation": "'You can't treat a mechanical problem with a medicine.' Once severe AS causes symptoms (angina, syncope, dyspnea), mortality approaches 25% per year (heart failure symptoms carry the worst prognosis), so the key indication for replacement is symptoms. Asymptomatic severe AS is replaced if LVEF is under 50%, the LV is enlarging, other cardiac surgery is planned, or an exercise test is abnormal. Treating risk factors does not change AS mortality, and severe AS is preload-dependent, so nitrates and aggressive diuresis are avoided."
+    },
+    {
+        "id": 51,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Valvular Disease",
+        "question": "A 19-year-old athlete has a harsh crescendo-decrescendo systolic murmur at the left sternal border. The murmur becomes LOUDER during Valsalva and softer with squatting. What is the most likely diagnosis?",
+        "options": [
+            "Ventricular septal defect",
+            "Hypertrophic obstructive cardiomyopathy",
+            "Mitral valve prolapse",
+            "Valvular aortic stenosis",
+            "Pulmonic stenosis"
+        ],
+        "correct_answer": "Hypertrophic obstructive cardiomyopathy",
+        "explanation": "Valsalva decreases preload. In HOCM, a smaller LV cavity worsens the DYNAMIC outflow obstruction, so the murmur gets louder. In AS, the obstruction is FIXED, so less flow across it makes the murmur softer or unchanged. Squatting and passive leg raise increase preload (and squatting increases afterload), which softens the HOCM murmur and increases the AS murmur. Handgrip increases afterload."
+    },
+    {
+        "id": 52,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Shock",
+        "question": "A 70-year-old woman with pyelonephritis has BP 78/40 mmHg, HR 122 bpm and warm flushed extremities. Cardiac output is 10.4 L/min, SVR is 300 dynes-s-cm-5, PCWP is low-normal, and MvO2 is elevated. Besides antibiotics and source control, which initial hemodynamic treatment is most appropriate?",
+        "options": [
+            "Beta-blockade to slow the heart rate",
+            "Inotropes plus IV diuretics",
+            "Nitroprusside for afterload reduction",
+            "Emergent pericardiocentesis",
+            "IV fluids plus norepinephrine"
+        ],
+        "correct_answer": "IV fluids plus norepinephrine",
+        "explanation": "Distributive (septic) shock's primary insult is low SVR, with high CO, low or normal PCWP, and a HIGH MvO2 because tissues cannot extract O2 and circulation is fast. Treatment: vasopressors to support MAP (goal about 65), aggressive fluids (capillary leak depletes intravascular volume), and antibiotics with source control. Stress-dose steroids are used for adrenal insufficiency or severe septic shock. Inotropes and vasodilators are for cardiogenic shock."
+    },
+    {
+        "id": 53,
+        "faculty": "Lorrel Toft",
+        "session": "B8: Video: Shock",
+        "question": "A 24-year-old man has a C5 spinal cord injury after a diving accident. He is hypotensive at 74/38 mmHg with a heart rate of 48 bpm and warm extremities. Which hemodynamic pattern defines his shock?",
+        "options": [
+            "High PCWP with low cardiac output",
+            "Low SVR with bradycardia",
+            "High SVR with tachycardia",
+            "Low cardiac output from low preload with tachycardia",
+            "Obstruction to RV outflow"
+        ],
+        "correct_answer": "Low SVR with bradycardia",
+        "explanation": "Neurogenic shock follows spinal cord injury that interrupts sympathetic outflow: loss of vasomotor tone lowers SVR (warm skin), and unopposed vagal tone causes bradycardia instead of the compensatory tachycardia seen in other shock states (MAP = HR x SV x SVR). Hypovolemic and cardiogenic shock show tachycardia and high SVR."
+    },
+    {
+        "id": 54,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Shortness of Breath",
+        "question": "A 69-year-old man with HFrEF (EF under 20%) wakes at night gasping for air. In the neurohormonal response to his reduced cardiac output, what is the initial afferent trigger for sympathetic and RAAS activation?",
+        "options": [
+            "Hyperkalemia sensed by the adrenal cortex",
+            "Increased cerebral blood flow sensed centrally",
+            "Atrial stretch receptors releasing ANP",
+            "Hypoxemia sensed by carotid body chemoreceptors",
+            "Baroreceptor unloading from reduced arterial filling"
+        ],
+        "correct_answer": "Baroreceptor unloading from reduced arterial filling",
+        "explanation": "Reduced stroke volume and CO unload baroreceptors in the LV, carotid sinus and aortic arch. The brain responds with sympathetic activation: tachycardia, peripheral and renal vasoconstriction, and renin release, which activates the RAAS (angiotensin II vasoconstriction, aldosterone-driven Na and water retention), plus nonosmotic vasopressin. Short-term this supports BP, but chronically it raises afterload and preload and drives remodeling. GDMT blocks these pathways: beta-blockers, ARNI/ARB/ACE-I, MRAs and SGLT2 inhibitors."
+    },
+    {
+        "id": 55,
+        "faculty": "Lorrel Toft; Robert Harvey",
+        "session": "B8: (REQUIRED) Shortness of Breath",
+        "question": "A 62-year-old woman with hypertension, diabetes and HFpEF (LVEF 60% with LVH) was admitted for volume overload and has been diuresed to euvolemia. Which discharge regimen reflects the lecture's approach to chronic HFpEF?",
+        "options": [
+            "No medications, since EF is preserved",
+            "Digoxin plus dobutamine",
+            "Hydralazine plus isosorbide dinitrate",
+            "Ivabradine plus a non-dihydropyridine CCB",
+            "Diuretics as needed plus an SGLT2 inhibitor"
+        ],
+        "correct_answer": "Diuretics as needed plus an SGLT2 inhibitor",
+        "explanation": "For chronic HFpEF the lecture's summary lists diuretics for congestion and an SGLT2 inhibitor, with an ARNI or ARB and an MRA to be considered based on emerging evidence (2025 update). Blood pressure and comorbidity control are essential. HFpEF accounts for about 50% of clinical HF, its mechanism is incompletely understood, and risk factors include obesity, metabolic syndrome and hypertension. Digoxin with dobutamine is not chronic outpatient therapy, ivabradine and a non-dihydropyridine CCB are not part of the recommended HFpEF regimen, a preserved EF still requires treatment of congestion and comorbidities, and hydralazine with isosorbide dinitrate is an HFrEF option."
+    }
+]
